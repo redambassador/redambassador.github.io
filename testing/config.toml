@@ -22,15 +22,21 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
-    url  = "/blog/"
+    name = "Music"
+    identifier = "music"
+    url  = "/music/"
     weight = 2
 
 [[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
+    name = "Videos"
+    identifier = "videos"
+    url  = "/videos/"
     weight = 3
+
+[[menu.main]]
+    name = "Blog"
+    url  = "/blog/"
+    weight = 4
 
 # [[menu.main]]
 #     name = "Contact"
@@ -85,7 +91,7 @@ paginate = 10
     googleMapsApiKey = ""
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "red"
+    style = "red-simple"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -103,7 +109,7 @@ paginate = 10
     email = "your@email.com"
 
     about_us = "Red Ambassador is an eletronic musician"
-    copyright = "Copyright (c) 2013 - 2017, Red Ambassador Music; all rights reserved."
+    copyright = "Copyright © 2013 - 2017, Red Ambassador Music. All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -138,7 +144,7 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.features]
-    enable = true
+    enable = false
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
@@ -152,7 +158,7 @@ paginate = 10
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-file-code-o"
     title = "Do you want to see more?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
@@ -169,5 +175,5 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "Recent blog posts"
+    subtitle = ""
