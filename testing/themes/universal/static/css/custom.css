@@ -11,7 +11,11 @@
 
 .navbar-brand-text {
   padding-top: 15px;
-  font-family:Verdana;
+  padding-bottom:10px;
+  margin-top:0px;
+  margin-bottom:0px;
+  font-family: Comfortaa;
   font-size: 15pt;
-  font-weight: normal;
+  font-weight: 700;
+  /*font-weight: normal;*/
 }
