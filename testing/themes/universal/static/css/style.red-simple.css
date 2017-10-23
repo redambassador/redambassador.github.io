@@ -3063,7 +3063,7 @@ fieldset[disabled] .btn-template-primary.active {
   border-bottom: none;
 }
 .navbar-default .navbar-brand {
-  color: #555555;
+  color: #000000;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -3158,7 +3158,7 @@ body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #555555;
+  color: #000000;
 }
 a {
   color: var(--main-bg-color);

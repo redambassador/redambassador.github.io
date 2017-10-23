@@ -8,3 +8,10 @@
 .box-simple {
   min-height: 230px;
 }
+
+.navbar-brand-text {
+  padding-top: 15px;
+  font-family:Verdana;
+  font-size: 15pt;
+  font-weight: normal;
+}

@@ -4,14 +4,14 @@
 
         <div class="container">
             <div class="navbar-header">
-                <a class="navbar-brand home" href="{{ .Site.BaseURL }}">
-                    <table style="height: 100%;">
-                      <tr>
-                        <td>
-                          <font>{{ .Title }}</font>
-                        </td>
-                      </tr>
-                    </table>
+                <a class="navbar-brand home" href="{{ .Site.BaseURL }}" title="Home">
+                  <div>
+                    <!-- <hr style="height:1px;border-width:0;background-color:gray;margin-top:1px; margin-bottom:1px"> -->
+                    <p class="navbar-brand-text">
+                      {{ .Title }}
+                    </p>
+                    <!-- <hr style="height:1px;border-width:0;background-color:gray;margin-top:1px; margin-bottom:1px"> -->
+                  </div>
                     <span class="sr-only">{{ .Title }} - {{ i18n "navHome" }}</span>
                 </a>
                 <div class="navbar-buttons">
