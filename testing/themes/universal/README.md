@@ -12,7 +12,7 @@ This Hugo theme was ported from [Bootstrapious](http://bootstrapious.com/p/unive
 
 ## Table of Contents
 
-* [Theme features](#theme-features)
+* [Features](#features)
 * [Installation](#installation)
 * [Configuration](#configuration)
   * [Style](#style)
@@ -111,6 +111,9 @@ googleAnalytics = "UA-XXXXX-X"
 
 Leave the `googleAnalytics` key empty to disable it.
 
+### Logo
+
+You can select the logos using the logo and logo_small parameters. The logo_small value will be used when the site is rendered on small screens.
 
 ### Contact form
 
