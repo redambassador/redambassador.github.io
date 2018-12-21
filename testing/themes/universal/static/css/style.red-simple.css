@@ -3059,23 +3059,23 @@ fieldset[disabled] .btn-template-primary.active {
   }
 }
 .navbar-default {
-  background-color: #ffffff;
+  background-color: #333;
   border-color: #cccccc;
   border-bottom: none;
 }
 .navbar-default .navbar-brand {
-  color: #000000;
+  color: #EEE;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #3b3b3b;
+  color: #FF3333;
   background-color: transparent;
 }
 .navbar-default .navbar-text {
-  color: #000000;
+  color: #EEE;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #000000;
+  color: #EEE;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
@@ -3369,7 +3369,7 @@ h6,
 .h6 {
   font-family: 'Comfortaa', Helvetica, Arial, sans-serif;
   font-weight: 500;
-  line-height: 1.1;
+  line-height: 1.0;
   color: #000;
 }
 h1,

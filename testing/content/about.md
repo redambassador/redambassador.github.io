@@ -18,8 +18,6 @@ img.resize {
 </style>
 
 
-## Links
-
 ----
 <center>
 <table cellpadding="1" style="width:50%">

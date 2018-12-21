@@ -4,7 +4,7 @@ date = "2014-10-03"
 tags = ["life-thoughts"]
 categories = ["blog"]
 banner = "img/banners/banner-2.jpg"
-draft = false
+draft = true
 +++
 
 Sometimes I think people might wonder if I’m really a Christian artist. Like,
