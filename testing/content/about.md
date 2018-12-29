@@ -10,36 +10,35 @@ draft = false
 img.resize {
   max-width:60px;
   max-height:60px;
-  border:0.5px solid black;
+  border:0px solid black;
 }
-
-
-
 </style>
 
 
 ----
+<!---<div style="background-color:#333333"> -->
 <center>
 <table cellpadding="1" style="width:50%">
 <tr>
 <td>
-<a target="_blank" href="https://soundcloud.com/red-ambassador"><img class="resize" src="https://soundcloud-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/sc_square_480.png" alt="SoundCloud"></a>
+<a target="_blank" href="https://soundcloud.com/red-ambassador"><img class="resize" src="/img/thirdparty/soundcloud.svg" alt="SoundCloud"></a>
 </td>
 
 <td>
-<a target="_blank" href="https://redambassador.bandcamp.com/"><img class="resize" src="https://i1.wp.com/images1.wikia.nocookie.net/__cb20120804030610/mlpfanart/images/0/07/Bandcamp_logo.png" alt="Bandcamp"></a>
+<a target="_blank" href="https://redambassador.bandcamp.com/"><img class="resize" src="/img/thirdparty/bandcamp.svg" alt="Bandcamp"></a>
 </td>
 
 <td>
-<a target="_blank" href="https://twitter.com/Red_Ambassador"><img class="resize" src="https://i1.wp.com/marketingland.com/wp-content/ml-loads/2012/06/new-twitter-logo.png" alt="Twitter"></a>
+<a target="_blank" href="https://twitter.com/Red_Ambassador"><img class="resize" src="/img/thirdparty/twitter_icon.svg" alt="Twitter"></a>
 </td>
 
 <td>
-<a target="_blank" href="https://www.youtube.com/c/RedAmbassadorMusic1"><img class="resize" src="/img/thirdparty/youtube_icon.svg" alt="Youtube Channel"></a>
+<a target="_blank" href="https://www.youtube.com/c/RedAmbassadorMusic1"><img class="resize" src="/img/thirdparty/youtube_icon_red_circle.svg" alt="Youtube Channel"></a>
 </td>
 </tr>
 </table>
 </center>
+<!---</div>--->
 
 ----
 
