@@ -1,5 +1,6 @@
 +++
 title = "Title"
+author = "Red Ambassador"
 date = "2013-12-23"
 tags = ["blog", "music"]
 categories = ["blog"]

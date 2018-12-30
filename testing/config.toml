@@ -49,43 +49,43 @@ paginate = 10
     weight = 1
     name = "Bandcamp"
     url = "https://redambassador.bandcamp.com"
-    pre = '<i class="fa-stack fa-lg">
-              <i class="fa fa-square fa-stack-2x fa-inverse"></i>
-              <i class="fa fa-bandcamp fa-stack-1x"></i>
-           </i>'
+    pre = """<i class="fa-stack fa-lg">
+                 <i class="fa fa-square fa-stack-2x fa-inverse"></i>
+                 <i class="fa fa-bandcamp fa-stack-1x"></i>
+             </i>"""
 
 [[menu.topbar]]
     weight = 2
     name = "Soundcloud"
     url = "https://soundcloud.com/red-ambassador"
-    pre = '<span class="fa-stack fa-lg">
-              <i class="fa fa-square fa-stack-2x fa-inverse"></i>
-              <i class="fa fa-soundcloud fa-stack-1x"></i>
-           </span>'
+    pre = """<span class="fa-stack fa-lg">
+                 <i class="fa fa-square fa-stack-2x fa-inverse"></i>
+                 <i class="fa fa-soundcloud fa-stack-1x"></i>
+             </span>"""
 
 [[menu.topbar]]
     weight = 3
     name = "Twitter"
     url = "http://twitter.com/Red_Ambassador"
-    pre = '<span class="fa-stack fa-lg" color="black">
-              <i class="fa fa-square fa-stack-2x fa-inverse"></i>
-              <i class="fa fa-twitter fa-stack-1x"></i>
-           </span>'
+    pre = """<span class="fa-stack fa-lg" color="black">
+                 <i class="fa fa-square fa-stack-2x fa-inverse"></i>
+                 <i class="fa fa-twitter fa-stack-1x"></i>
+             </span>"""
 
 [[menu.topbar]]
     weight = 4
     name = "Email"
     url = "mailto:redambassadormusic@live.com"
-    pre = '<i class="fa-stack fa-lg">
-              <i class="fa fa-square fa-stack-2x fa-inverse"></i>
-              <i class="fa fa-envelope fa-stack-1x"></i>
-           </i>'
+    pre = """<i class="fa-stack fa-lg">
+                 <i class="fa fa-square fa-stack-2x fa-inverse"></i>
+                 <i class="fa fa-envelope fa-stack-1x"></i>
+             </i>"""
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
+    author = "Red Ambassador"
+    defaultKeywords = ["Red Ambassador", "music", "song", "artist", "store"]
+    defaultDescription = "Musical musings from Alex's brain"
 
     # Google Maps API key (if not set will default to not passing a key.)
     # googleMapsApiKey = ""

@@ -1,5 +1,6 @@
 +++
 title = "Behind the Name"
+author = "Red Ambassador"
 date = "2013-12-30T1:01:08+02:00"
 tags = ["behind-the-music"]
 categories = ["blog"]

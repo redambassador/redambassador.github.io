@@ -1,5 +1,6 @@
 +++
 title = "Church Christians vs Jesus Christians"
+author = "Red Ambassador"
 date = "2015-04-19T13:47:08+02:00"
 tags = ["life-thoughts"]
 categories = ["blog"]

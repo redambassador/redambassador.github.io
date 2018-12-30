@@ -1,5 +1,6 @@
 +++
 title = "Christian Artist or Not?"
+author = "Red Ambassador"
 date = "2014-10-03"
 tags = ["life-thoughts"]
 categories = ["blog"]

@@ -1,9 +1,10 @@
 +++
 title = "2013 LMMS Christmas Competition Winners"
+author = "Red Ambassador"
 date = "2013-12-23"
 tags = ["christmas", "competition"]
 categories = ["blog", "lmms-christmas-comeptition"]
-banner = "img/banners/banner-2.jpg"
+banner = "/img/logo.png"
 draft = false
 +++
 
@@ -35,12 +36,21 @@ Again: Congratulations and Merry Christmas!
 ### Listen on SoundCloud
 
 <p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/125463773&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
+
 <p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124641605&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
+
 <p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/125850071&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
+
 <p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/123966051&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
+
 <p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124065250&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
+
 <p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/125083467&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
+
 <p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/123926096&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
+
 <p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/123614692&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
+
 <p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/124137925&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
+
 <p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/125779992&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
