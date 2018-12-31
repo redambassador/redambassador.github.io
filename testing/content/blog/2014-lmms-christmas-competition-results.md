@@ -2,8 +2,8 @@
 title = "2014 LMMS Christmas Competition Winners"
 author = "Red Ambassador"
 date = "2014-12-15"
-tags = ["christmas", "competition"]
-categories = ["blog", "lmms-christmas-comeptition"]
+tags = ["Christmas", "competition"]
+categories = ["blog", "lmms-christmas-competition"]
 banner = "/img/logo.png"
 draft = false
 +++

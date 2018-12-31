@@ -1,0 +1,3 @@
+- Make social icons on about page scale down with page width for mobile
+
+- Setup RSS feed for blog posts

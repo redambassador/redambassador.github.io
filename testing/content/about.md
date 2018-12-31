@@ -7,38 +7,66 @@ draft = false
 +++
 
 <style>
-img.resize {
-  max-width:60px;
-  max-height:60px;
-  border:0px solid black;
+table {
+    font-size: 40px;
+    border-spacing: 10px 0px;
+    border-collapse: seperate;
+}
+
+tr {
+    border-bottom: 1px solid #ccc;
+}
+
+table a:hover {
+    font-size: 35px;
 }
 </style>
 
 
-----
-<!---<div style="background-color:#333333"> -->
+## Contact
+
 <center>
-<table cellpadding="1" style="width:50%">
+
+Let's get in touch!
+
+<table>
 <tr>
-<td>
-<a target="_blank" href="https://soundcloud.com/red-ambassador"><img class="resize" src="/img/thirdparty/soundcloud.svg" alt="SoundCloud"></a>
-</td>
 
 <td>
-<a target="_blank" href="https://redambassador.bandcamp.com/"><img class="resize" src="/img/thirdparty/bandcamp.svg" alt="Bandcamp"></a>
+<a target="_blank" href="https://soundcloud.com/red-ambassador"><div style="color: #FF7700;" class="fab fa-soundcloud"></div></a>
 </td>
+<td>&nbsp;&nbsp;&nbsp;</td>
 
 <td>
-<a target="_blank" href="https://twitter.com/Red_Ambassador"><img class="resize" src="/img/thirdparty/twitter_icon.svg" alt="Twitter"></a>
+<a target="_blank" href="https://redambassador.bandcamp.com/"><i style="color: #639AA9;" class="fab fa-bandcamp"></i></a>
 </td>
+<td>&nbsp;&nbsp;&nbsp;</td>
 
 <td>
-<a target="_blank" href="https://www.youtube.com/c/RedAmbassadorMusic1"><img class="resize" src="/img/thirdparty/youtube_icon_red_circle.svg" alt="Youtube Channel"></a>
+<a target="_blank" href="https://twitter.com/Red_Ambassador"><i style="color: #55ACEE;" class="fab fa-twitter"></i></a>
 </td>
-</tr>
+<td>&nbsp;&nbsp;&nbsp;</td>
+
+<td>
+<a target="_blank" href="https://www.youtube.com/c/RedAmbassadorMusic1"><i style="color: #e52d27;" class="fab fa-youtube"></i></a>
+</td>
+<td>&nbsp;&nbsp;&nbsp;</td>
+
+<td>
+<a target="_blank" href="mailto:RedAmbassadorMusic@live.com"><i style="color:#000000;" class="far fa-envelope"></i></a>
+</td>
+<td>&nbsp;&nbsp;&nbsp;</td>
+
 </table>
 </center>
 <!---</div>--->
+
+Find Red Ambassador on social media and music platforms across the web. Click
+the images above to visit SoundCloud, Bandcamp, Twitter, or YouTube profiles.
+Or, if you prefer old-fashioned snail email, click the envelope icon. No
+guarantees I'll answer your emails. I'm not looking for any radio or
+publishing deals right now, so I'll simply ignore those requests if you send
+them to me.
 
 ----
 

@@ -2,8 +2,8 @@
 title = "Reach For The Sky (Remix)"
 author = "Red Ambassador"
 date = "2014-04-17"
-tags = ["blog", "remix"]
-categories = ["blog"]
+tags = ["remix", "glitchstep"]
+categories = ["blog", "music"]
 banner = "/img/cover-art/singles/spade-reach-sky-red-ambassador-remix.png"
 draft = false
 +++
