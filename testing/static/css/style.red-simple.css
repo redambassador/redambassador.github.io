@@ -317,7 +317,7 @@ ul.list-style-none {
 }
 .navbar ul.nav > li > a:hover {
   border-top: solid 5px var(--main-bg-color);
-  background-color: #fee;
+  background-color: #EEE;
 }
 .navbar ul.nav > li.active > a,
 .navbar ul.nav > li.open > a {
@@ -373,7 +373,7 @@ ul.list-style-none {
 .navbar ul.dropdown-menu li a:hover {
   color: var(--main-bg-color);
   text-decoration: none;
-  background: none;
+  background-color: none;
   left: 2px;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -970,7 +970,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .panel.sidebar-menu ul.tag-cloud {
   list-style: none;
-  padding-left: 0;
+  padding-left: 5px;
 }
 .panel.sidebar-menu ul.tag-cloud li {
   display: inline-block;
@@ -2662,7 +2662,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 /* nav */
 .nav > li > a {
-  padding: 10px 15px;
+  padding: 5px 5px;
 }
 .nav > li > a:hover,
 .nav > li > a:focus {

@@ -1,3 +1,13 @@
 - Make social icons on about page scale down with page width for mobile
 
 - Setup RSS feed for blog posts
+
+- Add privacy policy
+
+- Add posts from old website
+  - Orbit
+  - Tron
+  - Complete this track
+  - 
+
+- Add listener feedback (ReverbNation) widget?

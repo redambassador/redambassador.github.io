@@ -40,6 +40,9 @@
 - id: categoriesTitle
   translation: "Kategorien"
 
+- id : tocTitle
+  translation: "Inhaltsverzeichnis"
+
 - id: searchTitle
   translation: "Suche"
 

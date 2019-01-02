@@ -37,6 +37,9 @@
 - id: navToggle
   translation: "Přepnout prohlížení"
 
+- id : tocTitle
+  translation: "Obsah"
+
 - id: categoriesTitle
   translation: "Kategorie"
 

@@ -37,6 +37,9 @@
 - id: navToggle
   translation: "ナビゲーションの切り替え"
 
+- id : tocTitle
+  translation: "目次"
+
 - id: categoriesTitle
   translation: "カテゴリー"
 

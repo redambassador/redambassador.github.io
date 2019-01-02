@@ -37,6 +37,9 @@
 - id: navToggle
   translation: "Navigation Aan/Uit"
 
+- id : tocTitle
+  translation: "InhoudsopGave"
+
 - id: categoriesTitle
   translation: "Categorieën"
 

@@ -37,6 +37,9 @@
 - id: navToggle
   translation: "Attiva Navigazione"
 
+- id : tocTitle
+  translation: "Indice"
+
 - id: categoriesTitle
   translation: "Categorie"
 

@@ -37,6 +37,9 @@
 - id: navToggle
   translation: "Alternar Navegação"
 
+- id : tocTitle
+  translation: "Índice analítico"
+
 - id: categoriesTitle
   translation: "Categorias"
 

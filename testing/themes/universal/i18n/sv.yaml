@@ -37,6 +37,9 @@
 - id: navToggle
   translation: "Toggla navigation"
 
+- id : tocTitle
+  translation: "InnehållsFörteckning"
+
 - id: categoriesTitle
   translation: "Kategorier"
 

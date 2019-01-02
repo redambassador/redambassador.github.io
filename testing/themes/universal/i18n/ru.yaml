@@ -37,6 +37,9 @@
 - id: navToggle
   translation: "Переключить навигацию"
 
+- id : tocTitle
+  translation: "Оглавление"
+
 - id: categoriesTitle
   translation: "Категории"
 

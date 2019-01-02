@@ -37,6 +37,9 @@
 - id: navToggle
   translation: "切换导航"
 
+- id : tocTitle
+  translation: "目录"
+
 - id: categoriesTitle
   translation: "分类"
 

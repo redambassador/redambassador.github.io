@@ -1,8 +1,7 @@
 +++
 title = "About"
 date = "2016-03-20"
-keywords = ["stuff", "things"]
-banner = "img/banners/banner-2.jpg"
+keywords = ["contact", "biography", "social", "about", "links", "profiles"]
 draft = false
 +++
 
