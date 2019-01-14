@@ -1,7 +1,7 @@
 +++
 title = "About"
 date = "2016-03-20"
-keywords = ["contact", "biography", "social", "about", "links", "profiles"]
+keywords = ["contact", "biography", "social", "about", "link", "profile"]
 draft = false
 +++
 

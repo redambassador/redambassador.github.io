@@ -492,7 +492,7 @@ ul.list-style-none {
   top: 0;
   z-index: 1000;
   -webkit-box-shadow: 0 0 5px #cccccc;
-  box-shadow: 0 0 5px #cccccc;
+  box-shadow: 0 0 10px #000;
   -webkit-transition: all 0.5s ease-out;
   -moz-transition: all 0.5s ease-out;
   transition: all 0.5s ease-out;
@@ -3029,8 +3029,8 @@ fieldset[disabled] .btn-template-primary.active {
   border-top-left-radius: 0;
 }
 .navbar-fixed-bottom .navbar-nav > li > .dropdown-menu {
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 10;
+  border-bottom-left-radius: 10;
 }
 .navbar-btn {
   margin-top: 14px;
