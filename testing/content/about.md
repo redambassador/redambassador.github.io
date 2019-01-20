@@ -32,7 +32,7 @@ Let's get in touch!
 <tr>
 
 <td>
-<a target="_blank" href="https://soundcloud.com/red-ambassador"><div style="color: #FF7700;" class="fab fa-soundcloud"></div></a>
+<a target="_blank" href="https://soundcloud.com/red-ambassador"><i style="color: #FF7700;" class="fab fa-soundcloud"></i></a>
 </td>
 <td>&nbsp;&nbsp;&nbsp;</td>
 

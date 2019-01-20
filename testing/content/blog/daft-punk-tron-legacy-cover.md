@@ -4,12 +4,12 @@ author = "Red Ambassador"
 date = "2014-01-10"
 tags = ["cover", "electronic"]
 categories = ["blog", "music"]
-banner = "/img/cover-art/singles/daft-punk-tron-legacy-end-titles-red-ambassador-cover.png"
+banner = "/img/cover-art/singles/tron-legacy-end-titles_320x320.jpg"
 draft = true
 +++
 
 
-<img src=/img/cover-art/singles/daft-punk-tron-legacy-end-titles-red-ambassador-cover.png class="thumb" alt="Daft Punk's Tron: Legacy (RA Cover) Art">
+<img src=/img/cover-art/singles/tron-legacy-end-titles_320x320.jpg class="thumb" alt="Daft Punk's Tron: Legacy (RA Cover) Art">
 
 
 This was made entirely with [LMMS](https://lmms.io/). I mean entirely. Default
