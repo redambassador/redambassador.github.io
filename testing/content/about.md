@@ -9,16 +9,12 @@ draft = false
 <style>
 table {
     font-size: 40px;
-    border-spacing: 10px 0px;
-    /*border-collapse: separate;*/
+    border-spacing: 10% 0px;
+    border-collapse: collapse;
 }
 
 tr {
-    border-bottom: 1px solid #ccc;
-}
-
-table a:hover {
-    font-size: 35px;
+    border-bottom: 1px solid #aaa;
 }
 </style>
 
@@ -29,41 +25,33 @@ table a:hover {
 
 Let's get in touch!
 
-<table>
-<tr>
+<a target="_blank" href="https://soundcloud.com/red-ambassador" title="Soundcloud"><i style="color: #FF7700;" class="fab fa-soundcloud fa-2x"></i></a>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://redambassador.bandcamp.com/" title="Bandcamp"><i style="color: #639AA9;" class="fab fa-bandcamp fa-2x"></i></a>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.youtube.com/c/RedAmbassadorMusic1" title="YouTube"><i style="color: #e52d27;" class="fab fa-youtube fa-2x"></i></a>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://twitter.com/Red_Ambassador" title="Twitter"><i style="color: #55ACEE;" class="fab fa-twitter fa-2x"></i></a>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.last.fm/music/Red+Ambassador" title="last.fm"><i style="color: #d51007;" class="fab fa-lastfm fa-2x"></i></a>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.reverbnation.com/redambassador" title="ReverbNation">
+    <img height=32em src="/img/thirdparty/reverbnation_logo_min.svg"></a>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://musicbrainz.org/artist/1d0fcd10-c38e-4122-b9a6-99f406e47071" title="MusicBrainz">
+    <img height=36em src="/img/thirdparty/musicbrainz.svg"></a>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="mailto:RedAmbassadorMusic@live.com" title="Email"><i style="color:#000000;" class="far fa-envelope fa-2x"></i></a>
 
-<td>
-<a target="_blank" href="https://soundcloud.com/red-ambassador" title="Soundcloud"><i style="color: #FF7700;" class="fab fa-soundcloud"></i></a>
-</td>
-<td>&nbsp;&nbsp;&nbsp;</td>
-
-<td>
-<a target="_blank" href="https://redambassador.bandcamp.com/" title="Bandcamp"><i style="color: #639AA9;" class="fab fa-bandcamp"></i></a>
-</td>
-<td>&nbsp;&nbsp;&nbsp;</td>
-
-<td>
-<a target="_blank" href="https://www.youtube.com/c/RedAmbassadorMusic1" title="YouTube"><i style="color: #e52d27;" class="fab fa-youtube"></i></a>
-</td>
-<td>&nbsp;&nbsp;&nbsp;</td>
-
-<td>
-<a target="_blank" href="https://twitter.com/Red_Ambassador" title="Twitter"><i style="color: #55ACEE;" class="fab fa-twitter"></i></a>
-</td>
-<td>&nbsp;&nbsp;&nbsp;</td>
-
-<td>
-<a target="_blank" href="https://www.last.fm/music/Red+Ambassador" title="last.fm"><i style="color: #d51007;" class="fab fa-lastfm"></i></a>
-</td>
-<td>&nbsp;&nbsp;&nbsp;</td>
-
-<td>
-<a target="_blank" href="mailto:RedAmbassadorMusic@live.com" title="Email"><i style="color:#000000;" class="far fa-envelope"></i></a>
-</td>
-<td>&nbsp;&nbsp;&nbsp;</td>
-
-</table>
 </center>
+<hr>
 <!---</div>--->
 
 Find Red Ambassador on social media and music platforms across the web. Click
