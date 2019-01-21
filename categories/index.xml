@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Red Ambassador Music</title>
+    <link>http://redambassadormusic.com/categories/</link>
+    <description>Recent content in Categories on Red Ambassador Music</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Dec 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://redambassadormusic.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>http://redambassadormusic.com/categories/blog/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://redambassadormusic.com/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lmms Christmas Competition</title>
+      <link>http://redambassadormusic.com/categories/lmms-christmas-competition/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://redambassadormusic.com/categories/lmms-christmas-competition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://redambassadormusic.com/categories/music/</link>
+      <pubDate>Tue, 29 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://redambassadormusic.com/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singles</title>
+      <link>http://redambassadormusic.com/categories/singles/</link>
+      <pubDate>Tue, 29 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://redambassadormusic.com/categories/singles/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

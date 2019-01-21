@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Behind the Music on Red Ambassador Music</title>
+    <link>http://redambassadormusic.com/tags/behind-the-music/</link>
+    <description>Recent content in Behind the Music on Red Ambassador Music</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Dec 2013 01:01:08 +0200</lastBuildDate>
+    
+	<atom:link href="http://redambassadormusic.com/tags/behind-the-music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Behind the Name</title>
+      <link>http://redambassadormusic.com/blog/behind-the-name/</link>
+      <pubDate>Mon, 30 Dec 2013 01:01:08 +0200</pubDate>
+      
+      <guid>http://redambassadormusic.com/blog/behind-the-name/</guid>
+      <description>I’d like to explain where the name “Red Ambassador” came from. There is a meaning behind it, actually.
+Before I called myself “Red Ambassador”, I went by the artist name “RED 7” (in all caps). That was just a name I had used as an internet name for a while. It was kind of something that stemmed from the fact that I liked the color red and I also liked WWII air force terminology.</description>
+    </item>
+    
+  </channel>
+</rss>

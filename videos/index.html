@@ -7,16 +7,16 @@
   <meta name="googlebot" content="index,follow,snippet,archive">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <title>404 Page not found | Red Ambassador Music</title>
+  <title>Videos | Red Ambassador Music</title>
   
   <meta name="author" content="" />
 
   
-  <meta name="keywords" content="Red Ambassador, music, song, artist, store">
+  <meta name="keywords" content="video, visualizer, animation, music, audio, song">
   
 
   
-  <meta name="description" content="Musical musings from Alex&#39;s brain">
+  <meta name="description" content="Music videos, audio visualizers, and tutorials">
   
 
   <meta name="generator" content="Hugo 0.53" />
@@ -66,9 +66,9 @@
   <link rel="alternate" href="http://redambassadormusic.com/index.xml" type="application/rss+xml" title="Red Ambassador Music">
 
   
-  <meta property="og:title" content="404 Page not found" />
+  <meta property="og:title" content="Videos" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="/" />
+  <meta property="og:url" content="/videos//" />
   <meta property="og:image" content="" />
 
 </head>
@@ -172,30 +172,65 @@
 
         </header>
 
+        <div id="heading-breadcrumbs">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Videos</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+
         <div id="content">
+            
+
             <div class="container">
 
-                <div class="col-sm-6 col-sm-offset-3" id="error-page">
+                <div class="row">
 
-                    <div class="box">
+                    <div class="col-md-12">
 
-                        <p class="text-center">
-                            <a href="http://redambassadormusic.com">
-                                <img src="" alt="404 Page not found logo">
-                            </a>
-                        </p>
+                        <div>
+                          
 
-                        <h3>We are sorry - this page is not here anymore</h3>
-                        <h4 class="text-muted">Error 404 - Page not found</h4>
+<h2 id="audio-visualizers">Audio Visualizers</h2>
 
-                        <p class="buttons"><a href="http://redambassadormusic.com" class="btn btn-template-main"><i class="fa fa-home"></i> Go to Homepage</a>
-                        </p>
+<p>I&rsquo;ve uploaded lots of stuff to YouTube, so I&rsquo;ll just embed a few of them which
+I think you might find mildly interesting. Most of them are just visualizers for
+some of my songs. I&rsquo;m not in the game of making music videos, but I figured it&rsquo;d
+be nice to look at something more&hellip; &ldquo;alive&rdquo; than a still photo or album art.</p>
+
+<p><center>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube-nocookie.com/embed/videoseries?list=PLMVZ5xEDwpObsQ2GND2og2TwvniWRG28m" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+</center></p>
+
+<p>I was able to hack together a <a href="https://www.blender.org/">Blender</a> script to
+generate some moving bars  automated/controlled by the volume of the audio at
+a given frequency. Ideally this should be an FFT, but I was new to both
+<a href="https://www.python.org/">Python</a> and <a href="https://www.blender.org/">Blender</a>
+when I wrote the script and used some embedded features in Blender to achieve
+a vaguely similar effect.</p>
+
+<p>Someday when I have time (and remember), I want to
+re-write that script to use <a href="http://www.numpy.org/">NumPy</a> and run a real FFT
+on the audio. This should make the bars look a lot more accurate.</p>
+
+                        </div>
+
                     </div>
-
 
                 </div>
                 
+
             </div>
+            
+
             
         </div>
         
@@ -320,5 +355,67 @@
 
 
     </div>
+    
+
+    
+<script type="application/javascript">
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	if (window.sessionStorage) {
+		var GA_SESSION_STORAGE_KEY = 'ga:clientId';
+		ga('create', 'UA-46683639-5', {
+	    'storage': 'none',
+	    'clientId': sessionStorage.getItem(GA_SESSION_STORAGE_KEY)
+	   });
+	   ga(function(tracker) {
+	    sessionStorage.setItem(GA_SESSION_STORAGE_KEY, tracker.get('clientId'));
+	   });
+   }
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+
+<script
+    src="https://code.jquery.com/jquery-2.2.4.min.js"
+    integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+    crossorigin="anonymous">
+    </script>
+
+<script
+    src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+    crossorigin="anonymous">
+    </script>
+
+<script
+    src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js">
+    </script>
+
+<script 
+    src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js">
+    </script>
+
+<script 
+    src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js">
+    </script>
+
+<script
+    src="https://cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js">
+    </script>
+
+
+
+<script src="http://redambassadormusic.comjs/front.js"></script>
+
+
+<script src="http://redambassadormusic.comjs/owl.carousel.min.js"></script>
+
+
   </body>
 </html>
