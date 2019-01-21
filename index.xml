@@ -1,181 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Red Ambassador Music</title>
-    <link>http://redambassadormusic.com/</link>
-    <description>Recent content on Red Ambassador Music</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://redambassadormusic.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>LMMS Stuff</title>
-      <link>http://redambassadormusic.com/lmms-stuff/</link>
-      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://redambassadormusic.com/lmms-stuff/</guid>
-      <description>This page is will be the place to find some stuff I&amp;rsquo;ve made in or for LMMS and want to share, in case somebody else finds it useful. All this stuff is free to use.
-Contents  Project Files Instrument Presets Samples  Project Files  Nothing here&amp;hellip; yet! Check back soon!
- Presets    Name Audio Sample Download     Moondust      Samples  Nothing here&amp;hellip; yet!</description>
-    </item>
-    
-    <item>
-      <title>Videos</title>
-      <link>http://redambassadormusic.com/videos/</link>
-      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://redambassadormusic.com/videos/</guid>
-      <description>Audio Visualizers I&amp;rsquo;ve uploaded lots of stuff to YouTube, so I&amp;rsquo;ll just embed a few of them which I think you might find mildly interesting. Most of them are just visualizers for some of my songs. I&amp;rsquo;m not in the game of making music videos, but I figured it&amp;rsquo;d be nice to look at something more&amp;hellip; &amp;ldquo;alive&amp;rdquo; than a still photo or album art.
-   
-I was able to hack together a Blender script to generate some moving bars automated/controlled by the volume of the audio at a given frequency.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://redambassadormusic.com/about/</link>
-      <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://redambassadormusic.com/about/</guid>
-      <description>table { font-size: 40px; border-spacing: 10% 0px; border-collapse: collapse; } tr { border-bottom: 1px solid #aaa; }  Contact 
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Red Ambassador Music</title><link>http://redambassadormusic.com/</link><description>Recent content on Red Ambassador Music</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 20 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://redambassadormusic.com/index.xml" rel="self" type="application/rss+xml"/><item><title>LMMS Stuff</title><link>http://redambassadormusic.com/lmms-stuff/</link><pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate><guid>http://redambassadormusic.com/lmms-stuff/</guid><description>This page is will be the place to find some stuff I&amp;rsquo;ve made in or for LMMS and want to share, in case somebody else finds it useful. All this stuff is free to use.
+Contents Project Files Instrument Presets Samples Project Files Nothing here&amp;hellip; yet! Check back soon!
+Presets Name Audio Sample Download Moondust Samples Nothing here&amp;hellip; yet!</description></item><item><title>Videos</title><link>http://redambassadormusic.com/videos/</link><pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate><guid>http://redambassadormusic.com/videos/</guid><description>Audio Visualizers I&amp;rsquo;ve uploaded lots of stuff to YouTube, so I&amp;rsquo;ll just embed a few of them which I think you might find mildly interesting. Most of them are just visualizers for some of my songs. I&amp;rsquo;m not in the game of making music videos, but I figured it&amp;rsquo;d be nice to look at something more&amp;hellip; &amp;ldquo;alive&amp;rdquo; than a still photo or album art.
+I was able to hack together a Blender script to generate some moving bars automated/controlled by the volume of the audio at a given frequency.</description></item><item><title>About</title><link>http://redambassadormusic.com/about/</link><pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate><guid>http://redambassadormusic.com/about/</guid><description>table { font-size: 40px; border-spacing: 10% 0px; border-collapse: collapse; } tr { border-bottom: 1px solid #aaa; } Contact
 Let&amp;rsquo;s get in touch!
- &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;  &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; 
-  ---
-Find Red Ambassador on social media and music platforms across the web. Click the images above to visit SoundCloud, Bandcamp, Twitter, or YouTube profiles.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://redambassadormusic.com/contact/</link>
-      <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://redambassadormusic.com/contact/</guid>
-      <description> sessionStorage.redirect = location.href;   (function(){ var redirect = sessionStorage.redirect; delete sessionStorage.redirect; if (redirect &amp;&amp; redirect != location.href) { history.replaceState(null, null, redirect); } })();  </description>
-    </item>
-    
-    <item>
-      <title>Dusk</title>
-      <link>http://redambassadormusic.com/blog/dusk/</link>
-      <pubDate>Tue, 29 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://redambassadormusic.com/blog/dusk/</guid>
-      <description>Close your eyes, sit back, and feel the stillness sweep over you. Quiet synths introduce you to a calm and peaceful realm where the world seems right and clear. Then soft guitars take you airborne and show a view of the world from overhead as the sun sets in the distance. This is Dusk.
-I am very excited to share with you my new song which I’m calling “Dusk.” I had shared a WIP with you all on Soundcloud for a while under the working title of “Morning Coffee.</description>
-    </item>
-    
-    <item>
-      <title>2014 LMMS Christmas Competition Winners</title>
-      <link>http://redambassadormusic.com/blog/2014-lmms-christmas-competition-results/</link>
-      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://redambassadormusic.com/blog/2014-lmms-christmas-competition-results/</guid>
-      <description>Congratulations to all of our winners! Thank you for participating in this year’s competition. It’s exciting to see all these LMMS artists coming together.
-This year, we made ACTUAL AWARDS for 1st, 2nd, and 3rd place winners! Yes, they’re paper/pdf awards, but better than nothing, eh? Maybe you can print them off and put them on your wall or take a picture of you holding your award and post it to my Facebook page.</description>
-    </item>
-    
-    <item>
-      <title>Time</title>
-      <link>http://redambassadormusic.com/blog/time/</link>
-      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://redambassadormusic.com/blog/time/</guid>
-      <description>Time has a very unique sound. It&amp;rsquo;s probably best described as an electronic / steam-punk track.
+&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;
+---
+Find Red Ambassador on social media and music platforms across the web. Click the images above to visit SoundCloud, Bandcamp, Twitter, or YouTube profiles.</description></item><item><title>Contact</title><link>http://redambassadormusic.com/contact/</link><pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate><guid>http://redambassadormusic.com/contact/</guid><description> sessionStorage.redirect = location.href; (function(){ var redirect = sessionStorage.redirect; delete sessionStorage.redirect; if (redirect &amp;&amp; redirect != location.href) { history.replaceState(null, null, redirect); } })();</description></item><item><title>Dusk</title><link>http://redambassadormusic.com/blog/dusk/</link><pubDate>Tue, 29 Dec 2015 00:00:00 +0000</pubDate><guid>http://redambassadormusic.com/blog/dusk/</guid><description>Close your eyes, sit back, and feel the stillness sweep over you. Quiet synths introduce you to a calm and peaceful realm where the world seems right and clear. Then soft guitars take you airborne and show a view of the world from overhead as the sun sets in the distance. This is Dusk.
+I am very excited to share with you my new song which I’m calling “Dusk.” I had shared a WIP with you all on Soundcloud for a while under the working title of “Morning Coffee.</description></item><item><title>2014 LMMS Christmas Competition Winners</title><link>http://redambassadormusic.com/blog/2014-lmms-christmas-competition-results/</link><pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate><guid>http://redambassadormusic.com/blog/2014-lmms-christmas-competition-results/</guid><description>Congratulations to all of our winners! Thank you for participating in this year’s competition. It’s exciting to see all these LMMS artists coming together.
+This year, we made ACTUAL AWARDS for 1st, 2nd, and 3rd place winners! Yes, they’re paper/pdf awards, but better than nothing, eh? Maybe you can print them off and put them on your wall or take a picture of you holding your award and post it to my Facebook page.</description></item><item><title>Time</title><link>http://redambassadormusic.com/blog/time/</link><pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate><guid>http://redambassadormusic.com/blog/time/</guid><description>Time has a very unique sound. It&amp;rsquo;s probably best described as an electronic / steam-punk track.
 Time starts out very soft and innocent, with sounds of industry (trains and machine squeaks) in the background. The chorus gets hard and heavy, grinding out the melody. The second and third choruses, the lead comes in, releasing rich melodies to complete the whole theme.
-You can listen to &amp;ldquo;Time&amp;rdquo; on some common platforms linked below, or you may choose to buy the track, name your price (i.</description>
-    </item>
-    
-    <item>
-      <title>Particulate</title>
-      <link>http://redambassadormusic.com/blog/particulate/</link>
-      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://redambassadormusic.com/blog/particulate/</guid>
-      <description>I released my song “Particulate” a couple days ago. I started out by just posting a screen-recording video of the song on YouTube and then later posted it on SoundCloud.
-A couple days after the SC posting, I found out that the CEDM (or Christian Electronic Dance Music) network re-posted my song to their Soundcloud profile, which was super cool! I feel pretty honored to have gotten that recognition.</description>
-    </item>
-    
-    <item>
-      <title>Lost</title>
-      <link>http://redambassadormusic.com/blog/lost/</link>
-      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://redambassadormusic.com/blog/lost/</guid>
-      <description>This is a brand new song I wrote rather quickly. I haven’t written an original song in a long while. I’ve been doing remixes and whatnot. I had a lot of fun making this and got really passionate about it.
-In this song, I kind of went back to my deeper, serious, and more thoughtful side. It’s quieter. It’s got a nice, deep cello and some rich synths pulsating through. I also recorded a little vocal line for the chorus that adds a little more of a human element to it.</description>
-    </item>
-    
-    <item>
-      <title>NEWS!! – Spade’s in a Remix Contest</title>
-      <link>http://redambassadormusic.com/blog/spade-in-a-remix-contest/</link>
-      <pubDate>Thu, 26 Jun 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://redambassadormusic.com/blog/spade-in-a-remix-contest/</guid>
-      <description>So, I just wanted to give a shout out to a musical bro of mine. He just submitted his remix entry to the Citizen’s “Made Alive” remix contest. I was chatting with Spade and he was saying how excited he was to enter into this contest and I think that excitement really shows in the product that came out.
-You gotta listen to his remix of Citizen’s song “Made Alive”! 😀</description>
-    </item>
-    
-    <item>
-      <title>Reach For The Sky (Remix)</title>
-      <link>http://redambassadormusic.com/blog/reach-for-the-sky-remix/</link>
-      <pubDate>Thu, 17 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://redambassadormusic.com/blog/reach-for-the-sky-remix/</guid>
-      <description>Well. I worked for a long while on this. Finally decided to just throw it out there. Listening to it now, I can hear a couple things that I meant to change but didn’t.
-Anywho. Hopefully you enjoy my remix of Spade&amp;rsquo;s (Adrian Cardwell&amp;rsquo;s) song “Reach For The Sky.” You can download it for free on SoundCloud.
- </description>
-    </item>
-    
-    <item>
-      <title>Behind the Name</title>
-      <link>http://redambassadormusic.com/blog/behind-the-name/</link>
-      <pubDate>Mon, 30 Dec 2013 01:01:08 +0200</pubDate>
-      
-      <guid>http://redambassadormusic.com/blog/behind-the-name/</guid>
-      <description>I’d like to explain where the name “Red Ambassador” came from. There is a meaning behind it, actually.
-Before I called myself “Red Ambassador”, I went by the artist name “RED 7” (in all caps). That was just a name I had used as an internet name for a while. It was kind of something that stemmed from the fact that I liked the color red and I also liked WWII air force terminology.</description>
-    </item>
-    
-    <item>
-      <title>2013 LMMS Christmas Competition Winners</title>
-      <link>http://redambassadormusic.com/blog/2013-lmms-christmas-competition-results/</link>
-      <pubDate>Mon, 23 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://redambassadormusic.com/blog/2013-lmms-christmas-competition-results/</guid>
-      <description>Hey everybody!
+You can listen to &amp;ldquo;Time&amp;rdquo; on some common platforms linked below, or you may choose to buy the track, name your price (i.</description></item><item><title>Particulate</title><link>http://redambassadormusic.com/blog/particulate/</link><pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate><guid>http://redambassadormusic.com/blog/particulate/</guid><description>I released my song “Particulate” a couple days ago. I started out by just posting a screen-recording video of the song on YouTube and then later posted it on SoundCloud.
+A couple days after the SC posting, I found out that the CEDM (or Christian Electronic Dance Music) network re-posted my song to their Soundcloud profile, which was super cool! I feel pretty honored to have gotten that recognition.</description></item><item><title>Lost</title><link>http://redambassadormusic.com/blog/lost/</link><pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate><guid>http://redambassadormusic.com/blog/lost/</guid><description>This is a brand new song I wrote rather quickly. I haven’t written an original song in a long while. I’ve been doing remixes and whatnot. I had a lot of fun making this and got really passionate about it.
+In this song, I kind of went back to my deeper, serious, and more thoughtful side. It’s quieter. It’s got a nice, deep cello and some rich synths pulsating through. I also recorded a little vocal line for the chorus that adds a little more of a human element to it.</description></item><item><title>NEWS!! – Spade’s in a Remix Contest</title><link>http://redambassadormusic.com/blog/spade-in-a-remix-contest/</link><pubDate>Thu, 26 Jun 2014 00:00:00 +0000</pubDate><guid>http://redambassadormusic.com/blog/spade-in-a-remix-contest/</guid><description>So, I just wanted to give a shout out to a musical bro of mine. He just submitted his remix entry to the Citizen’s “Made Alive” remix contest. I was chatting with Spade and he was saying how excited he was to enter into this contest and I think that excitement really shows in the product that came out.
+You gotta listen to his remix of Citizen’s song “Made Alive”! 😀</description></item><item><title>Reach For The Sky (Remix)</title><link>http://redambassadormusic.com/blog/reach-for-the-sky-remix/</link><pubDate>Thu, 17 Apr 2014 00:00:00 +0000</pubDate><guid>http://redambassadormusic.com/blog/reach-for-the-sky-remix/</guid><description>Well. I worked for a long while on this. Finally decided to just throw it out there. Listening to it now, I can hear a couple things that I meant to change but didn’t.
+Anywho. Hopefully you enjoy my remix of Spade&amp;rsquo;s (Adrian Cardwell&amp;rsquo;s) song “Reach For The Sky.” You can download it for free on SoundCloud.</description></item><item><title>Behind the Name</title><link>http://redambassadormusic.com/blog/behind-the-name/</link><pubDate>Mon, 30 Dec 2013 01:01:08 +0200</pubDate><guid>http://redambassadormusic.com/blog/behind-the-name/</guid><description>I’d like to explain where the name “Red Ambassador” came from. There is a meaning behind it, actually.
+Before I called myself “Red Ambassador”, I went by the artist name “RED 7” (in all caps). That was just a name I had used as an internet name for a while. It was kind of something that stemmed from the fact that I liked the color red and I also liked WWII air force terminology.</description></item><item><title>2013 LMMS Christmas Competition Winners</title><link>http://redambassadormusic.com/blog/2013-lmms-christmas-competition-results/</link><pubDate>Mon, 23 Dec 2013 00:00:00 +0000</pubDate><guid>http://redambassadormusic.com/blog/2013-lmms-christmas-competition-results/</guid><description>Hey everybody!
 Spade and I would both like to sincerely thank you for participating in the 2013 Top-10 LMMS Christmas Music competition. We hope you all had fun and were able to get valuable feedback from us and your peers.
 Here are the tracks that made it into the top ten list.
 Again: Congratulations and Merry Christmas!
-List of 2013&amp;rsquo;s Top-10 LCC Entries    # Artist Track Title     1 Forward Notion O Come O Come Emmanuel   2 RoboP LMMS 2013   3 Raptor980 Music God Rest Ye Marry Gentlemen   4 Nathan (Tripliex) Jingle Bells – 2013   5 Sti-Jay Calm Christmas   6 FaZz-2 BumpinBells   7 Ronald Hutasuhut Sukacita (Joyful)   8 Stakeout Punch Broken Christmas   9 Marco Discendenti Holy Crap!</description>
-    </item>
-    
-    <item>
-      <title>Buy</title>
-      <link>http://redambassadormusic.com/buy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://redambassadormusic.com/buy/</guid>
-      <description>Bandcamp</description>
-    </item>
-    
-    <item>
-      <title>Buy Music</title>
-      <link>http://redambassadormusic.com/buy-music/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://redambassadormusic.com/buy-music/</guid>
-      <description>This is empty</description>
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>http://redambassadormusic.com/music/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://redambassadormusic.com/music/</guid>
-      <description>  Latest music Releases (Singles/EPs/Albums)  Latest Music (SoundCloud)  Releases Time by Red Ambassador Clarity by Red Ambassador Mr. Pixel&amp;#39;s Life Adventure by Red Ambassador Glass by Red Ambassador Particulate by Red Ambassador Lost by Red Ambassador Bandwidth (feat. Cozy Broke) by Red Ambassador Dusk by Red Ambassador </description>
-    </item>
-    
-  </channel>
-</rss>
+List of 2013&amp;rsquo;s Top-10 LCC Entries # Artist Track Title 1 Forward Notion O Come O Come Emmanuel 2 RoboP LMMS 2013 3 Raptor980 Music God Rest Ye Marry Gentlemen 4 Nathan (Tripliex) Jingle Bells – 2013 5 Sti-Jay Calm Christmas 6 FaZz-2 BumpinBells 7 Ronald Hutasuhut Sukacita (Joyful) 8 Stakeout Punch Broken Christmas 9 Marco Discendenti Holy Crap!</description></item><item><title>Buy</title><link>http://redambassadormusic.com/buy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://redambassadormusic.com/buy/</guid><description>Bandcamp</description></item><item><title>Buy Music</title><link>http://redambassadormusic.com/buy-music/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://redambassadormusic.com/buy-music/</guid><description>This is empty</description></item><item><title>Music</title><link>http://redambassadormusic.com/music/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://redambassadormusic.com/music/</guid><description> Latest music Releases (Singles/EPs/Albums) Latest Music (SoundCloud) Releases Time by Red Ambassador Clarity by Red Ambassador Mr. Pixel&amp;#39;s Life Adventure by Red Ambassador Glass by Red Ambassador Particulate by Red Ambassador Lost by Red Ambassador Bandwidth (feat. Cozy Broke) by Red Ambassador Dusk by Red Ambassador</description></item></channel></rss>
