@@ -1,5 +1,3 @@
-- Make social icons on about page scale down with page width for mobile
-
 - Setup RSS feed for blog posts
 
 - Add privacy policy
@@ -9,5 +7,17 @@
   - Tron
   - Complete this track
   - 
+  
+- Add
+  - https://web.archive.org/web/20160320143358/http://redambassadormusic.com/copyright-media-policy/
+  - https://web.archive.org/web/20160404073125/http://redambassadormusic.com/crusher-digits-vst-preset/
+  - https://web.archive.org/web/20160405143925/http://redambassadormusic.com/lcc-rules/
+  - https://web.archive.org/web/20160403161731/http://redambassadormusic.com/intensifier/
+  - https://web.archive.org/web/20160320143134/http://redambassadormusic.com/musical-saw-free-patch/
+  - https://web.archive.org/web/20160408014009/http://redambassadormusic.com/woody-bass/
+  - https://web.archive.org/web/20160320142721/http://redambassadormusic.com/transmission/
+  - https://web.archive.org/web/20160320143320/http://redambassadormusic.com/whirring-saws/
+  - https://web.archive.org/web/20160405022725/http://redambassadormusic.com/concerto-cello-soundfont/
+  - https://web.archive.org/web/20160301044701/http://redambassadormusic.com/free-vst-bundle-by-melda/
 
 - Add listener feedback (ReverbNation) widget?
