@@ -2,17 +2,12 @@
 title = "Lost"
 author = "Red Ambassador"
 date = "2014-06-30"
+lastmod = "2019-01-20"
 tags = ["singles", "electronic", "chill"]
 categories = ["singles", "music"]
 banner = "/img/cover-art/singles/lost_320x320.jpg"
 draft = false
 +++
-
-<style>
-.svg-inline--fa {
-    vertical-align: middle;
-}
-</style>
 
 <img src="/img/cover-art/singles/lost_320x320.jpg" class="thumb" alt="Lost by Red Ambassador cover at">
 

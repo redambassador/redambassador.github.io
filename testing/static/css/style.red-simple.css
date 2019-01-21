@@ -137,6 +137,32 @@ div.section {
   border: solid 1px #fff;
   font-size: 20px;
 }
+/* Move FontAwesome icons to middle (vertically) of text line.
+   Allows me to put images (other icons not available from FA) 
+   next to FA icons and they look aligned. */
+.svg-inline--fa {
+    vertical-align: middle;
+}
+
+/* Default table styling */
+table, tr {
+    padding: 10px;
+}
+th {
+    padding: 10px;
+    color: #FFF;
+    font-weight: bold;
+    background-color: #333;
+}
+tr { 
+    border-bottom: 1px solid black;
+}
+/*tr:hover {
+    background-color: #eee;
+}*/
+td { padding: 10px; }
+
+
 .icon.icon-lg {
   font-size: 30px;
   border-width: 2px;
@@ -2421,6 +2447,7 @@ fieldset[disabled] .btn-template-primary.active {
     text-align: center;
   }
 }
+/*
 #checkout .nav {
   margin-bottom: 20px;
   border-bottom: solid 1px var(--main-bg-color);
@@ -2509,6 +2536,8 @@ fieldset[disabled] .btn-template-primary.active {
 #get-it p {
   margin: 0 0 20px;
 }
+*/
+
 #footer {
   background: #333;
   padding: 50px 0;
@@ -3179,10 +3208,11 @@ a:focus {
 
 .thumb {
   border-radius: 5px;
-  max-width: 18%;
+  min-width: 100px;
+  max-width: 19%;
   height: auto;
-  float: left;
-  margin: 0px 10px 10px 0px;
+  float: right;
+  margin: 0px 0px 10px 10px;
 }
 
 hr {

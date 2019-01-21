@@ -1,6 +1,7 @@
 +++
 title = "About"
 date = "2016-03-20"
+lastmod = "2019-01-20"
 keywords = ["contact", "biography", "social", "about", "link", "profile"]
 draft = false
 +++
@@ -9,7 +10,7 @@ draft = false
 table {
     font-size: 40px;
     border-spacing: 10px 0px;
-    border-collapse: seperate;
+    /*border-collapse: separate;*/
 }
 
 tr {
@@ -32,27 +33,32 @@ Let's get in touch!
 <tr>
 
 <td>
-<a target="_blank" href="https://soundcloud.com/red-ambassador"><i style="color: #FF7700;" class="fab fa-soundcloud"></i></a>
+<a target="_blank" href="https://soundcloud.com/red-ambassador" title="Soundcloud"><i style="color: #FF7700;" class="fab fa-soundcloud"></i></a>
 </td>
 <td>&nbsp;&nbsp;&nbsp;</td>
 
 <td>
-<a target="_blank" href="https://redambassador.bandcamp.com/"><i style="color: #639AA9;" class="fab fa-bandcamp"></i></a>
+<a target="_blank" href="https://redambassador.bandcamp.com/" title="Bandcamp"><i style="color: #639AA9;" class="fab fa-bandcamp"></i></a>
 </td>
 <td>&nbsp;&nbsp;&nbsp;</td>
 
 <td>
-<a target="_blank" href="https://twitter.com/Red_Ambassador"><i style="color: #55ACEE;" class="fab fa-twitter"></i></a>
+<a target="_blank" href="https://www.youtube.com/c/RedAmbassadorMusic1" title="YouTube"><i style="color: #e52d27;" class="fab fa-youtube"></i></a>
 </td>
 <td>&nbsp;&nbsp;&nbsp;</td>
 
 <td>
-<a target="_blank" href="https://www.youtube.com/c/RedAmbassadorMusic1"><i style="color: #e52d27;" class="fab fa-youtube"></i></a>
+<a target="_blank" href="https://twitter.com/Red_Ambassador" title="Twitter"><i style="color: #55ACEE;" class="fab fa-twitter"></i></a>
 </td>
 <td>&nbsp;&nbsp;&nbsp;</td>
 
 <td>
-<a target="_blank" href="mailto:RedAmbassadorMusic@live.com"><i style="color:#000000;" class="far fa-envelope"></i></a>
+<a target="_blank" href="https://www.last.fm/music/Red+Ambassador" title="last.fm"><i style="color: #d51007;" class="fab fa-lastfm"></i></a>
+</td>
+<td>&nbsp;&nbsp;&nbsp;</td>
+
+<td>
+<a target="_blank" href="mailto:RedAmbassadorMusic@live.com" title="Email"><i style="color:#000000;" class="far fa-envelope"></i></a>
 </td>
 <td>&nbsp;&nbsp;&nbsp;</td>
 

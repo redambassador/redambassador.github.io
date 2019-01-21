@@ -2,6 +2,7 @@
 title = "NEWS!! – Spade’s in a Remix Contest"
 author = "Red Ambassador"
 date = "2014-06-26"
+lastmod = "2019-01-20"
 tags = ["christmas", "competition"]
 categories = ["blog"]
 banner = "/img/logo.png"

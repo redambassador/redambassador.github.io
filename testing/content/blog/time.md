@@ -2,20 +2,14 @@
 title = "Time"
 author = "Red Ambassador"
 date = "2014-10-02"
+lastmod = "2019-01-20"
 tags = ["singles", "electronic", "steampunk"]
 categories = ["singles", "music"]
 banner = "/img/cover-art/singles/time_320x320.jpg"
 draft = false
 +++
 
-<style>
-.svg-inline--fa {
-    vertical-align: middle;
-}
-</style>
-
 <img src=/img/cover-art/singles/time_320x320.jpg class="thumb" alt="Time by Red Ambassador cover art">
-
 
 Time has a very unique sound. It's probably best described as an electronic /
 steam-punk track.

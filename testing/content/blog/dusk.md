@@ -2,17 +2,12 @@
 title = "Dusk"
 author = "Red Ambassador"
 date = "2015-12-29"
+lastmod = "2019-01-20"
 tags = ["singles", "electronic", "chill"]
 categories = ["singles", "music"]
 banner = "/img/cover-art/singles/dusk_320x320.jpg"
 draft = false
 +++
-
-<style>
-.svg-inline--fa {
-    vertical-align: middle;
-}
-</style>
 
 <img src="/img/cover-art/singles/dusk_320x320.jpg" class="thumb" alt="Dusk by Red Ambassador cover at">
 
@@ -39,12 +34,12 @@ Enjoy, as always. :)
 <center>
 Listen to "Dusk" by Red Ambassador on these platforms:
 
-<a target="_blank" href="https://soundcloud.com/red-ambassador/dusk" title="Soundcloud">
-    <i style="color: #FF7700;" class="fab fa-soundcloud fa-2x"></i>
-</a>
-&nbsp;
 <a target="_blank" href="https://redambassador.bandcamp.com/track/dusk" title="Bandcamp">
     <i style="color: #639AA9;" class="fab fa-bandcamp fa-2x"></i>
+</a>
+&nbsp;
+<a target="_blank" href="https://soundcloud.com/red-ambassador/dusk" title="Soundcloud">
+    <i style="color: #FF7700;" class="fab fa-soundcloud fa-2x"></i>
 </a>
 &nbsp;
 <a target="_blank" href="https://www.youtube.com/watch?v=3l0X_83Rvk8" title="YouTube">

@@ -76,14 +76,17 @@ _________________________________________________________ -->
             <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
             {{ end }}
             <p class="pull-right" style="opacity:0.4">
-              {{ i18n "templateBy" }} <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.
+              {{ i18n "templateBy" }} <a target="_blank" href="http://bootstrapious.com/free-templates">Bootstrapious</a>.
               <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
               <!--
               I don't mind doing this what so ever. However, since I'm using
               rather bold and contrasting colors, I'm going to fade this out so
               it doesn't make the footer look "busy".
               -->
-              {{ i18n "portedBy" }} <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>
+              {{ i18n "portedBy" }} 
+              <a target="_blank" href="https://gohugo.io/" title="Hugo">Hugo</a> (ver. {{ hugo.Version }})
+              by
+              <a target="_blank" href="https://github.com/devcows/hugo-universal-theme">DevCows</a>
             </p>
         </div>
     </div>

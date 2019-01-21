@@ -1,5 +1,7 @@
 +++
 title = "Videos"
+
+lastmod = "2019-01-20"
 description = "Music videos, audio visualizers, and tutorials"
 keywords = ["video", "visualizer", "animation", "music", "audio", "song"]
 +++
@@ -12,8 +14,9 @@ some of my songs. I'm not in the game of making music videos, but I figured it'd
 be nice to look at something more... "alive" than a still photo or album art.
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RSRnktucY5c?list=PLMVZ5xEDwpObsQ2GND2og2TwvniWRG28m" frameborder="0" allowfullscreen></iframe>
+{{< youtube id="videoseries?list=PLMVZ5xEDwpObsQ2GND2og2TwvniWRG28m" >}}
 </center>
+
 
 I was able to hack together a [Blender](https://www.blender.org/) script to
 generate some moving bars  automated/controlled by the volume of the audio at

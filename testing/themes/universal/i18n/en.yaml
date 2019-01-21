@@ -5,7 +5,7 @@
   translation: "Template by"
 
 - id: portedBy
-  translation: "Ported to Hugo by"
+  translation: "Ported to"
 
 - id: contactGoTo
   translation: "Go to contact page"
@@ -62,7 +62,7 @@
   translation: "Recent posts"
 
 - id: aboutUs
-  translation: "About us"
+  translation: "About"
 
 - id: newer
   translation: "Newer"
