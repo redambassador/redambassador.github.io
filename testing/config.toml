@@ -1,4 +1,4 @@
-baseurl = "http://redambassadormusic.com"
+baseurl = "http://redambassadormusic.com/"
 title = "Red Ambassador Music"
 theme = "universal"
 languageCode = "en-us"
