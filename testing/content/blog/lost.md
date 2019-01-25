@@ -5,7 +5,7 @@ date = "2014-06-30"
 lastmod = "2019-01-20"
 tags = ["singles", "electronic", "chill"]
 categories = ["singles", "music"]
-banner = "/img/cover-art/singles/lost_320x320.jpg"
+banner = "img/cover-art/singles/lost_320x320.jpg"
 draft = false
 +++
 

@@ -5,7 +5,7 @@ date = "2014-10-02"
 lastmod = "2019-01-20"
 tags = ["singles", "electronic", "steampunk"]
 categories = ["singles", "music"]
-banner = "/img/cover-art/singles/time_320x320.jpg"
+banner = "img/cover-art/singles/time_320x320.jpg"
 draft = false
 +++
 

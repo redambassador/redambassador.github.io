@@ -5,7 +5,7 @@ date = "2014-04-17"
 lastmod = "2019-01-20"
 tags = ["remix", "glitchstep"]
 categories = ["blog", "music"]
-banner = "/img/cover-art/singles/spade-reach-sky-red-ambassador-remix.png"
+banner = "img/cover-art/singles/spade-reach-sky-red-ambassador-remix.png"
 draft = false
 +++
 

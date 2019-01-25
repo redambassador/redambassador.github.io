@@ -4,7 +4,7 @@ author = "Red Ambassador"
 date = "2014-12-15"
 tags = ["Christmas", "competition"]
 categories = ["blog", "lmms-christmas-competition"]
-banner = "/img/logo.png"
+banner = "img/logo.png"
 draft = false
 +++
 

@@ -5,11 +5,11 @@ date = "2015-12-29"
 lastmod = "2019-01-20"
 tags = ["singles", "electronic", "chill"]
 categories = ["singles", "music"]
-banner = "/img/cover-art/singles/dusk_320x320.jpg"
+banner = "img/cover-art/singles/dusk_320x320.jpg"
 draft = false
 +++
 
-<img src="/img/cover-art/singles/dusk_320x320.jpg" class="thumb" alt="Dusk by Red Ambassador cover at">
+<img src="img/cover-art/singles/dusk_320x320.jpg" class="thumb" alt="Dusk by Red Ambassador cover at">
 
 Close your eyes, sit back, and feel the stillness sweep over you. Quiet synths
 introduce you to a calm and peaceful realm where the world seems right and

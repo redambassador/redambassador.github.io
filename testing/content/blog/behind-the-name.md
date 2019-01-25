@@ -5,7 +5,7 @@ date = "2013-12-30T1:01:08+02:00"
 tags = ["behind-the-music"]
 categories = ["blog"]
 keywords = ["history", "name", "brand", "biography"]
-banner = "/img/logo.png"
+banner = "img/logo.png"
 draft = false
 +++
 

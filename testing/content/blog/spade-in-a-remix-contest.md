@@ -5,7 +5,7 @@ date = "2014-06-26"
 lastmod = "2019-01-20"
 tags = ["christmas", "competition"]
 categories = ["blog"]
-banner = "/img/logo.png"
+banner = "img/logo.png"
 draft = false
 +++
 
