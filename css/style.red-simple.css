@@ -53,12 +53,12 @@
   transform: translate3d(0, 0, 0);
 }
 /* general styles */
-a,
+/* a,
 button {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
-}
+} */
 a i.fa,
 button i.fa {
   margin: 0 5px;
@@ -138,7 +138,7 @@ div.section {
   font-size: 20px;
 }
 /* Move FontAwesome icons to middle (vertically) of text line.
-   Allows me to put images (other icons not available from FA) 
+   Allows me to put images (other icons not available from FA)
    next to FA icons and they look aligned. */
 .svg-inline--fa {
     vertical-align: middle;
@@ -154,7 +154,7 @@ th {
     font-weight: bold;
     background-color: #333;
 }
-tr { 
+tr {
     border-bottom: 1px solid black;
 }
 /*tr:hover {
@@ -252,7 +252,7 @@ ul.list-style-none {
 }
 @media (min-width: 1300px) {
   body.boxed {
-    background: url(http://subtlepatterns.com/patterns/subtle_zebra_3d.png);
+    background: url(//subtlepatterns.com/patterns/subtle_zebra_3d.png);
   }
   body.boxed #all {
     position: relative;
@@ -335,20 +335,25 @@ ul.list-style-none {
   border: none;
 }
 .navbar ul.nav > li > a {
-  text-transform: uppercase;
-  /*text-decoration: underline;*/
-  font-weight: normal;
+  /* text-transform: uppercase; */
+  /* text-decoration: underline; */
+  /* font-weight: normal; */
   letter-spacing: 0.08em;
-  border-top: solid 5px transparent;
+  border-top: solid 3px transparent;
 }
 .navbar ul.nav > li > a:hover {
-  border-top: solid 5px var(--main-bg-color);
-  background-color: #EEE;
+  border-top: solid 3px #aaa;
+  border-bottom: solid 3px #aaa;
+  background-color: #333;
+  color: #eee;
 }
 .navbar ul.nav > li.active > a,
 .navbar ul.nav > li.open > a {
+  border-top: solid 3px #a02121;
+  border-bottom: solid 3px #a02121;
+  /* padding-top: 20px;
+  padding-bottom: 20px; */
   text-decoration: none !important;
-  border-top: solid 5px #a02121;
 }
 @media (max-width: 768px) {
   .navbar ul.nav > li.active > a,
@@ -360,18 +365,19 @@ ul.list-style-none {
   }
 }
 .navbar.navbar-light ul.nav > li.active > a {
-  border-top: solid 5px #a02121;
+  border-top: solid 3px #a02121;
+  border-bottom: solid 3px #a02121;
   background: #fff !important;
   color: #555555 !important;
 }
 .navbar.navbar-light ul.nav > li.active > a:hover {
-  border-top: solid 5px #a02121;
+  border-top: solid 3px #a02121;
 }
 .navbar.navbar-light ul.nav > li > a:hover,
 .navbar.navbar-light ul.nav > li.open > a:hover,
 .navbar.navbar-light ul.nav > li > a:focus,
 .navbar.navbar-light ul.nav > li.open > a:focus {
-  border-top: solid 5px var(--main-bg-color);
+  border-top: solid 3px var(--main-bg-color);
   background: #fff !important;
   color: #555555 !important;
 }
@@ -382,14 +388,14 @@ ul.list-style-none {
 .navbar ul.dropdown-menu li {
   list-style-type: none;
   border-bottom: solid 1px #eeeeee;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   letter-spacing: 0.08em;
   padding: 4px 0;
 }
 .navbar ul.dropdown-menu li a {
   position: relative;
   color: #999999;
-  font-size: 12px;
+  font-size: 14px;
   display: block;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -400,7 +406,7 @@ ul.list-style-none {
   color: var(--main-bg-color);
   text-decoration: none;
   background-color: none;
-  left: 2px;
+  left: 3px;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
@@ -1004,11 +1010,11 @@ fieldset[disabled] .btn-template-primary.active {
 .panel.sidebar-menu ul.tag-cloud li a {
   display: inline-block;
   padding: 5px;
-  border: solid 1px #eeeeee;
-  border-radius: 0;
+  border: solid 1px #CAA;
+  border-radius: 10px;
   color: var(--main-bg-color);
-  margin: 5px 5px 5px 0;
-  text-transform: uppercase;
+  margin: 5px;
+  /* text-transform: uppercase; */
   letter-spacing: 0.08em;
   font-weight: 700;
   font-size: 12px;
@@ -1221,7 +1227,7 @@ fieldset[disabled] .btn-template-primary.active {
   color: #fff;
 }
 .home-carousel h1 {
-  font-weight: 700;
+  /* font-weight: 700; */
   text-transform: uppercase;
   font-size: 46px;
   letter-spacing: 0.08em;
@@ -1232,7 +1238,7 @@ fieldset[disabled] .btn-template-primary.active {
   }
 }
 .home-carousel h2 {
-  font-weight: 700;
+  /* font-weight: 700; */
   text-transform: uppercase;
   font-size: 40px;
   letter-spacing: 0.08em;
@@ -1240,7 +1246,7 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel ul,
 .home-carousel p {
   font-size: 18px;
-  font-weight: 700;
+  /* font-weight: 700; */
   padding: 0;
   text-transform: uppercase;
   letter-spacing: 0.10em;
@@ -1663,10 +1669,10 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .box-image-text .content h3,
 .box-image-text .content h4 {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   line-height: 1.5;
-  color: #555555;
-  font-weight: 800;
+  /* color: #555555; */
+  /* font-weight: 800; */
   letter-spacing: 0.08em;
 }
 .box-image-text .content p {
@@ -1756,11 +1762,11 @@ fieldset[disabled] .btn-template-primary.active {
 .box.no-border {
   border: none;
 }
-#heading-breadcrumbs {
+/* #heading-breadcrumbs {
   background: url('../img/texture-bw.png') center center repeat;
   padding: 20px 0;
   margin-bottom: 40px;
-}
+} */
 #heading-breadcrumbs.no-mb {
   margin-bottom: 0;
 }
@@ -1768,7 +1774,7 @@ fieldset[disabled] .btn-template-primary.active {
   color: #333333;
   text-transform: uppercase;
   font-size: 30px;
-  font-weight: 700;
+  /* font-weight: 700; */
   letter-spacing: 0.08em;
 }
 @media (max-width: 991px) {
@@ -2553,7 +2559,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 #footer h4 {
   font-size: 14px;
-  font-weight: 800;
+  /* font-weight: 800; */
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
@@ -2611,7 +2617,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 #footer .blog-entries .item .name h5 {
   margin: 0;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   letter-spacing: 0.08em;
   font-size: 12px;
 }
@@ -3115,7 +3121,8 @@ fieldset[disabled] .btn-template-primary.active {
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #ffffff;
-  background-color: var(--main-bg-color);
+  /* background-color: var(--main-bg-color); */
+  background-color: transparent;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -3405,9 +3412,9 @@ h6,
 .h5,
 .h6 {
   font-family: 'Comfortaa', Helvetica, Arial, sans-serif;
-  font-weight: 500;
-  line-height: 1.0;
-  color: #000;
+  /* font-weight: 500; */
+  line-height: 1.2;
+  /* color: #000; */
 }
 h1,
 .h1,

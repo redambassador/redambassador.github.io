@@ -15,7 +15,9 @@
   margin-top:0px;
   margin-bottom:0px;
   font-family: Comfortaa;
-  font-size: 15pt;
-  font-weight: 700;
-  /*font-weight: normal;*/
+  font-size: 20pt;
+  text-indent: 10px;
+  border-left: 2px solid var(--main-bg-color);
+  /* font-weight: 700; */
+  /* font-weight: normal; */
 }
