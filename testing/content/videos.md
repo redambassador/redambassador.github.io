@@ -18,13 +18,13 @@ be nice to look at something more... "alive" than a still photo or album art.
 </center>
 
 
-I was able to hack together a [Blender](https://www.blender.org/) script to
+I was able to hack together a [Blender](//www.blender.org/) script to
 generate some moving bars  automated/controlled by the volume of the audio at
 a given frequency. Ideally this should be an FFT, but I was new to both
-[Python](https://www.python.org/) and [Blender](https://www.blender.org/)
+[Python](//www.python.org/) and [Blender](//www.blender.org/)
 when I wrote the script and used some embedded features in Blender to achieve
 a vaguely similar effect.
 
 Someday when I have time (and remember), I want to
-re-write that script to use [NumPy](http://www.numpy.org/) and run a real FFT
+re-write that script to use [NumPy](//www.numpy.org/) and run a real FFT
 on the audio. This should make the bars look a lot more accurate.

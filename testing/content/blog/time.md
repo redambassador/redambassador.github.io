@@ -2,7 +2,7 @@
 title = "Time"
 author = "Red Ambassador"
 date = "2014-10-02"
-lastmod = "2019-01-20"
+lastmod = "2019-11-23"
 tags = ["singles", "electronic", "steampunk"]
 categories = ["singles", "music"]
 banner = "img/cover-art/singles/time_320x320.jpg"
@@ -21,32 +21,39 @@ rich melodies to complete the whole theme.
 
 You can listen to "Time" on some common platforms linked below, or you may
 choose to buy the track, **name your price** *(i.e. free, if you think it's a
-crap song)* on Bandcamp.
+crap song)* [on Bandcamp](//redambassador.bandcamp.com/track/time).
+
+<br>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="//w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/170417960&color=%23d00000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 
 <br>
 <center>
 Listen to "Time" by Red Ambassador on these platforms:
 
-<a target="_blank" href="https://soundcloud.com/red-ambassador/time" title="Soundcloud">
-    <i style="color: #FF7700;" class="fab fa-soundcloud fa-2x"></i>
+<a target="_blank" href="//soundcloud.com/red-ambassador/time" title="Soundcloud">
+    <img height=40px src="/img/thirdparty/soundcloud.svg">
 </a>
 &nbsp;
-<a target="_blank" href="https://redambassador.bandcamp.com/track/time" title="Bandcamp">
-    <i style="color: #639AA9;" class="fab fa-bandcamp fa-2x"></i>
+&nbsp;
+<a target="_blank" href="//redambassador.bandcamp.com/track/time" title="Bandcamp">
+    <img height=40px src="/img/thirdparty/bandcamp.svg">
 </a>
 &nbsp;
-<a target="_blank" href="https://www.youtube.com/watch?v=RSRnktucY5c" title="YouTube">
-    <i style="color: #e52d27;" class="fab fa-youtube fa-2x"></i>
+&nbsp;
+<a target="_blank" href="//www.youtube.com/watch?v=RSRnktucY5c" title="YouTube">
+    <img height=40px src="/img/thirdparty/yt_rc.svg">
 </a>
 &nbsp;
-<a target="_blank" href="https://www.reverbnation.com/redambassador/song/21940713-time" title="ReverbNation">
-    <img height=30px src="/img/thirdparty/reverbnation_logo_min.svg">
+&nbsp;
+<a target="_blank" href="//www.reverbnation.com/redambassador/song/21940713-time" title="ReverbNation">
+    <img height=40px src="/img/thirdparty/reverbnation_logo_min.svg">
 </a>
 </center>
 
 -------------------------------------------------------------------------------
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/170417960&color=%23d00000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 
 <!--If you want more specific links to the samples or tools that I used, you’re not
@@ -62,22 +69,22 @@ pointers to things I used to create this song. Please don’t abuse this list.--
 
 Tools and plugins used:
 
-* <a target="_blank" href="https://lmms.io">LMMS </a>
-* <a target="_blank" href="https://audacityteam.org">Audacity</a>
-* <a target="_blank" href="https://www.dskmusic.com/dsk-music-box">DSK Music Box VST</a>
-* <a target="_blank" href="http://www.extentofthejam.com">Digits VST</a> [v 1.3 I think]
-* <a target="_blank" href="https://www.audiopluginsforfree.com/camelcrusher">Camel Crusher</a>
+* <a target="_blank" href="//lmms.io">LMMS </a>
+* <a target="_blank" href="//audacityteam.org">Audacity</a>
+* <a target="_blank" href="//www.dskmusic.com/dsk-music-box">DSK Music Box VST</a>
+* <a target="_blank" href="//www.extentofthejam.com">Digits VST</a> [v 1.3 I think]
+* <a target="_blank" href="//www.audiopluginsforfree.com/camelcrusher">Camel Crusher</a>
 
 Samples used (that I can remember):
 
-* <a target="_blank" href="http://www.pacdv.com/sounds">http://www.pacdv.com/sounds</a>
+* <a target="_blank" href="//www.pacdv.com/sounds">www.pacdv.com/sounds</a>
   * bang_1
   * bang_2
   * cling_1
   * coin_4
   * gun-reload-1
   * tape-measure-1
-* <a target="_blank" href="http://www.soundjay.com">http://www.soundjay.com</a>
+* <a target="_blank" href="//www.soundjay.com">www.soundjay.com</a>
   * camera-shutter-click-01
   * camera-shutter-click-03
   * camera-shutter-click-08
@@ -87,7 +94,7 @@ Samples used (that I can remember):
   * steam-locomotive-arrive-and-stop-01
   * steam-locomotive-pass-by-01
   * typewriter-1
-* <a target="_blank" href="http://soundbible.com">http://soundbible.com</a>
+* <a target="_blank" href="//soundbible.com">soundbible.com</a>
   * tornado siren
 
 > Notes from a soft, melodic music box fills the air. It’s almost soothing.

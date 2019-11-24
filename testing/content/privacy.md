@@ -129,7 +129,7 @@ We will notify the users **via in-site** notification as soon as we are made awa
 We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
 
 # CAN SPAM Act
- 
+
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
 We collect your email address in order to:
@@ -158,9 +158,8 @@ If there are any questions or concerns regarding this privacy policy you may con
 
 <center>
 ```
-http://RedAmbassadorMusic.com
+https://RedAmbassadorMusic.com
 
 RedAmbassadorMusic@live.com
 ```
 </center>
-

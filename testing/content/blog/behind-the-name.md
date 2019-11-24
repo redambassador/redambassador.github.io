@@ -20,8 +20,8 @@ sounding name, so I went with it.
 
 About a year later, I discovered that there were a couple other music groups
 with the name “RED 7.” Red 7 was a
-[short-lived rock group](http://en.wikipedia.org/wiki/Red_7) from the 80’s,
-it’s some [for-hire band](http://redsevenmusic.com/home), it’s also a night
+[short-lived rock group](//en.wikipedia.org/wiki/Red_7) from the 80’s,
+it’s some [for-hire band](//redsevenmusic.com/home), it’s also a night
 club in Texas, and I thought I had found out about some new-ish punk rock
 band from Russia or something who was calling themselves Red 7 (I can't seem
 to find the link now). So, yeah, RED 7 was not going to work.
@@ -31,10 +31,10 @@ When my sister and I were kids, we played, sang, and wrote a couple
 got from 2 Corinthians 5:20, which says this:
 
 > Now then, we are ambassadors for Christ, as though God were pleading through
-> us: we implore you on Christ’s behalf, be reconciled to God. 
-> – [2 Cor 5:20 NKJV](http://www.biblegateway.com/passage/?search=2+Corinthians+5%3A20&version=NKJV)
+> us: we implore you on Christ’s behalf, be reconciled to God.
+> – [2 Cor 5:20 NKJV](//www.biblegateway.com/passage/?search=2+Corinthians+5%3A20&version=NKJV)
 
-I got to thinking about that name some more as I was trying to decide what I 
+I got to thinking about that name some more as I was trying to decide what I
 should change my artist name to. The whole idea of an ambassador is someone
 who is supposed to accurately represent and share the will of the sender. An
 ambassador isn’t just a messenger; someone who spouts off word-for-word what the

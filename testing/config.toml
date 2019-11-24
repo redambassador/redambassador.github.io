@@ -1,4 +1,4 @@
-baseurl = "http://redambassadormusic.com/"
+baseurl = "https://redambassadormusic.com/"
 title = "Red Ambassador Music"
 theme = "universal"
 languageCode = "en-us"
@@ -16,7 +16,7 @@ paginate = 10
 
 [privacy]
   [privacy.disqus]
-    disable = true
+    disable = false
   [privacy.googleAnalytics]
     anonymizeIP = true
     disable = false
@@ -52,31 +52,46 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "💳 Buy on Bandcamp"
+    name = "[🆕] Latest Releases"
+    parent = "music"
+    identifier = "recent"
+    url = "/music/"
+    weight = 1
+
+# [[menu.main]]
+#     name = "[💿] Discography"
+#     parent = "music"
+#     identifier = "discography"
+#     url = "/discography/"
+#     weight = 2
+
+[[menu.main]]
+    name = "[💳] Buy on Bandcamp"
     parent = "music"
     identifier = "buy-music"
     url = "https://redambassador.bandcamp.com/"
-    weight = 1
+    weight = 3
 
 #[[menu.main]]
-#    name = "🎵 Free Music"
+#    name = "[🎵] Free Music"
 #    parent = "music"
 #    identifier = "free-music"
 #    url = "/free-music/"
-#    weight = 2
+#    weight = 3
 
 [[menu.main]]
-    name = "📁 Free LMMS Stuff"
+    name = "[📁] Free LMMS Stuff"
     parent = "music"
-    identifier = "lmms-stuff"
+    identifier = "lmms"
     url = "/lmms-stuff/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "Videos"
     identifier = "videos"
     url  = "/videos/"
     weight = 3
+
 
 [[menu.main]]
     name = "Blog"
@@ -85,52 +100,57 @@ paginate = 10
 
 [[menu.main]]
     name = "About"
-    url  = "/about"
+    url  = "/about/"
     weight = 5
 
 # Top bar social links menu
 
-[[menu.topbar]]
-    weight = 1
-    name = "Bandcamp"
-    url = "https://redambassador.bandcamp.com"
-    pre = """<i class="fa-stack fa-lg">
-                 <i class="fa fa-square fa-stack-2x fa-inverse"></i>
-                 <i class="fa fa-bandcamp fa-stack-1x"></i>
-             </i>"""
+# [[menu.topbar]]
+#     weight = 1
+#     name = "Bandcamp"
+#     url = "//redambassador.bandcamp.com"
+#     pre = """<i class="fa-stack fa-lg">
+#                  <i class="fa fa-square fa-stack-2x fa-inverse"></i>
+#                  <i class="fa fa-bandcamp fa-stack-1x"></i>
+#              </i>"""
 
-[[menu.topbar]]
-    weight = 2
-    name = "Soundcloud"
-    url = "https://soundcloud.com/red-ambassador"
-    pre = """<span class="fa-stack fa-lg">
-                 <i class="fa fa-square fa-stack-2x fa-inverse"></i>
-                 <i class="fa fa-soundcloud fa-stack-1x"></i>
-             </span>"""
+# [[menu.topbar]]
+#     weight = 2
+#     name = "Soundcloud"
+#     url = "//soundcloud.com/red-ambassador"
+#     pre = """<span class="fa-stack fa-lg">
+#                  <i class="fa fa-square fa-stack-2x fa-inverse"></i>
+#                  <i class="fa fa-soundcloud fa-stack-1x"></i>
+#              </span>"""
 
-[[menu.topbar]]
-    weight = 3
-    name = "Twitter"
-    url = "http://twitter.com/Red_Ambassador"
-    pre = """<span class="fa-stack fa-lg" color="black">
-                 <i class="fa fa-square fa-stack-2x fa-inverse"></i>
-                 <i class="fa fa-twitter fa-stack-1x"></i>
-             </span>"""
+# [[menu.topbar]]
+#     weight = 3
+#     name = "Twitter"
+#     url = "//twitter.com/Red_Ambassador"
+#     pre = """<span class="fa-stack fa-lg" color="black">
+#                  <i class="fa fa-square fa-stack-2x fa-inverse"></i>
+#                  <i class="fa fa-twitter fa-stack-1x"></i>
+#              </span>"""
 
-[[menu.topbar]]
-    weight = 4
-    name = "Email"
-    url = "mailto:redambassadormusic@live.com"
-    pre = """<i class="fa-stack fa-lg">
-                 <i class="fa fa-square fa-stack-2x fa-inverse"></i>
-                 <i class="fa fa-envelope fa-stack-1x"></i>
-             </i>"""
+# [[menu.topbar]]
+#     weight = 4
+#     name = "Email"
+#     url = "mailto:redambassadormusic@live.com"
+#     pre = """<i class="fa-stack fa-lg">
+#                  <i class="fa fa-square fa-stack-2x fa-inverse"></i>
+#                  <i class="fa fa-envelope fa-stack-1x"></i>
+#              </i>"""
 
 [params]
     viewMorePostLink = "/blog/"
     author = "Red Ambassador"
     defaultKeywords = ["Red Ambassador", "music", "song", "artist", "store"]
     defaultDescription = "Musical musings from Alex's brain"
+
+    # Social media
+    #facebook_site = ""
+    twitter_site = "red_ambassador"
+    default_sharing_image = "img/sharing-default.png"
 
     # Google Maps API key (if not set will default to not passing a key.)
     # googleMapsApiKey = ""
@@ -153,18 +173,18 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     # email = "your@email.com"
 
-    about_us = """Red Ambassador is an amateur musician from the United States who 
+    about_us = """Red Ambassador is an amateur musician from the United States who
     likes using free and open-source tools, like LMMS, to create unique audio
     experiences."""
-    
+
     copyright = "Copyright &#169; 2013 - 2019, Red Ambassador Music. All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = ""
-    logo_small = ""
-    address = ""
+    #logo = ""
+    logo_small = "/img/apple-touch-icon.png"
+    #address = ""
     latitude = ""
     longitude = ""
 

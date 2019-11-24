@@ -1,0 +1,23 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.navbar-brand-text {
+  padding-top: 15px;
+  padding-bottom:10px;
+  margin-top:0px;
+  margin-bottom:0px;
+  font-family: Comfortaa;
+  font-size: 20pt;
+  text-indent: 10px;
+  border-left: 2px solid var(--main-bg-color);
+  /* font-weight: 700; */
+  /* font-weight: normal; */
+}

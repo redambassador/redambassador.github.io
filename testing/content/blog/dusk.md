@@ -9,7 +9,7 @@ banner = "img/cover-art/singles/dusk_320x320.jpg"
 draft = false
 +++
 
-<img src="img/cover-art/singles/dusk_320x320.jpg" class="thumb" alt="Dusk by Red Ambassador cover at">
+<img src="/img/cover-art/singles/dusk_320x320.jpg" class="thumb" alt="Dusk by Red Ambassador cover at">
 
 Close your eyes, sit back, and feel the stillness sweep over you. Quiet synths
 introduce you to a calm and peaceful realm where the world seems right and
@@ -34,24 +34,26 @@ Enjoy, as always. :)
 <center>
 Listen to "Dusk" by Red Ambassador on these platforms:
 
-<a target="_blank" href="https://redambassador.bandcamp.com/track/dusk" title="Bandcamp">
-    <i style="color: #639AA9;" class="fab fa-bandcamp fa-2x"></i>
+<a target="_blank" href="//redambassador.bandcamp.com/track/dusk" title="Bandcamp">
+    <img height=40px src="/img/thirdparty/bandcamp.svg">
 </a>
 &nbsp;
-<a target="_blank" href="https://soundcloud.com/red-ambassador/dusk" title="Soundcloud">
-    <i style="color: #FF7700;" class="fab fa-soundcloud fa-2x"></i>
+&nbsp;
+<a target="_blank" href="//soundcloud.com/red-ambassador/dusk" title="Soundcloud">
+    <img height=40px src="/img/thirdparty/soundcloud.svg">
 </a>
 &nbsp;
-<a target="_blank" href="https://www.youtube.com/watch?v=3l0X_83Rvk8" title="YouTube">
-    <i style="color: #e52d27;" class="fab fa-youtube fa-2x"></i>
+&nbsp;
+<a target="_blank" href="//www.youtube.com/watch?v=3l0X_83Rvk8" title="YouTube">
+    <img height=40px src="/img/thirdparty/yt_rc.svg">
 </a>
 &nbsp;
-<a target="_blank" href="https://www.reverbnation.com/redambassador/song/24992987-dusk" title="ReverbNation">
-    <img height=30px src="/img/thirdparty/reverbnation_logo_min.svg">
+&nbsp;
+<a target="_blank" href="//www.reverbnation.com/redambassador/song/24992987-dusk" title="ReverbNation">
+    <img height=40px src="/img/thirdparty/reverbnation_logo_min.svg">
 </a>
 </center>
 
 -------------------------------------------------------------------------------
 
 <iframe width="100%" height="166" scrolling="no" framebor<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/239479468&color=%23d00000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-

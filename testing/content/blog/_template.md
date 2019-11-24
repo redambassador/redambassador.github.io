@@ -9,4 +9,3 @@ keywords = ["stuff", "things"]
 banner = "img/banners/banner-2.jpg"
 draft = true
 +++
-

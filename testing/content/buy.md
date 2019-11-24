@@ -1,7 +1,7 @@
 +++
 title = "Buy"
 description = "Support the artist by purchasing music and merchandise!"
-keywords = ["store", "purchase", "checkout", "cart", "music", "audio", "song", "sample", "time", "red ambassador"]
+keywords = ["store", "purchase", "checkout", "cart", "music", "audio", "song", "sample", "time", "merch"]
 +++
 
 <center>

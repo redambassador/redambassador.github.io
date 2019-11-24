@@ -18,34 +18,31 @@ tr {
 }
 </style>
 
-
-## Contact
-
 <center>
 
 Let's get in touch!
 
-<a target="_blank" href="https://soundcloud.com/red-ambassador" title="Soundcloud"><i style="color: #FF7700;" class="fab fa-soundcloud fa-2x"></i></a>
+<a target="_blank" href="https://soundcloud.com/red-ambassador" title="Soundcloud"> <img height=40px src="/img/thirdparty/soundcloud.svg"> </a>
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://redambassador.bandcamp.com/" title="Bandcamp"><i style="color: #639AA9;" class="fab fa-bandcamp fa-2x"></i></a>
+<a target="_blank" href="https://redambassador.bandcamp.com/" title="Bandcamp"><img height=40px src="/img/thirdparty/bandcamp.svg"></a>
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://www.youtube.com/c/RedAmbassadorMusic1" title="YouTube"><i style="color: #e52d27;" class="fab fa-youtube fa-2x"></i></a>
+<a target="_blank" href="https://www.youtube.com/c/RedAmbassadorMusic1?sub_confirmation=1" title="YouTube"><img height=40px src="/img/thirdparty/yt_rc.svg"></a>
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://twitter.com/Red_Ambassador" title="Twitter"><i style="color: #55ACEE;" class="fab fa-twitter fa-2x"></i></a>
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://www.last.fm/music/Red+Ambassador" title="last.fm"><i style="color: #d51007;" class="fab fa-lastfm fa-2x"></i></a>
+<a target="_blank" href="https://twitter.com/Red_Ambassador" title="Twitter"><img height=40px src="/img/thirdparty/twitter_icon.svg"></a>
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://www.reverbnation.com/redambassador" title="ReverbNation">
-    <img height=32em src="/img/thirdparty/reverbnation_logo_min.svg"></a>
+    <img height=40px src="/img/thirdparty/reverbnation_logo_min.svg"></a>
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://musicbrainz.org/artist/1d0fcd10-c38e-4122-b9a6-99f406e47071" title="MusicBrainz">
-    <img height=36em src="/img/thirdparty/musicbrainz.svg"></a>
+    <img height=40px src="/img/thirdparty/musicbrainz.svg"></a>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.last.fm/music/Red+Ambassador" title="last.fm"><i style="color: #d51007;" class="fab fa-lastfm fa-2x"></i></a>
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 <a target="_blank" href="mailto:RedAmbassadorMusic@live.com" title="Email"><i style="color:#000000;" class="far fa-envelope fa-2x"></i></a>
@@ -79,10 +76,10 @@ After a few years, he began asking me if there was a song I wanted to learn or a
 
 However, on the home front, finances were getting super tight. I didn’t feel like I was getting as much out of lessons as I used to. Often times, I just wanted to sit and play my guitar without feeling the pressure of doing homework or something. Eventually, my parents and I decided to end my guitar lessons.
 
-In 2010 I formed a band with friends but the band faded about a year later. We were able to perform once at a small end-of-school-year ceremony.
+In 2010 I formed a band with friends but it died out about a year later. We were able to perform once at a small end-of-school-year ceremony. We had lots of fun together as a group though.
 
 In 2011, I found out about a free, open-source digital music composition program called [Linux Multimedia Studio (LMMS)](https://lmms.io). I started making tons of short little songs with this new program, figuring out new tools and techniques as more time went on. LMMS became my new instrument, in a way. I loved the fact that when I placed a note, it would be played perfectly, at the same time, every time. I also love electronics and computers (a field I am getting my college degree in) so the blend of digital equipment and music made it an amazingly enjoyable experience.
 
-Since that time, I have simply pursued my passion to create music. I do it for Christ, and I do it for fun. :)
+Since that time, I have simply pursued my passion to create music when I have the time.
 
 Why the name “Red Ambassador”? [Read about it on my blog!](/blog/behind-the-name/)
