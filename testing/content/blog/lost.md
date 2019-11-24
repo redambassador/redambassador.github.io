@@ -4,7 +4,7 @@ author = "Red Ambassador"
 date = "2014-06-30"
 lastmod = "2019-01-20"
 tags = ["singles", "electronic", "chill"]
-categories = ["singles", "music"]
+categories = ["music"]
 banner = "img/cover-art/singles/lost_320x320.jpg"
 draft = false
 +++
@@ -72,4 +72,3 @@ Listen to "Lost" by Red Ambassador on these platforms:
 >
 >    This song will be offered as a free download on SoundCloud for a limited
 > time.
-

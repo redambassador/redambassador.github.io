@@ -4,9 +4,9 @@ date = "2014-09-04"
 lastmod = "2014-11-24"
 author = "Red Ambassador"
 keywords = ["music", "history", "list", "time", "year"]
-tags = ["music"]
+tags = []
 
-draft = false
+draft = true
 layout = "single-sidebar"
 toc = true
 +++

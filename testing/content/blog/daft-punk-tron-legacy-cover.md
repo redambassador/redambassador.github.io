@@ -2,8 +2,8 @@
 title = "Daft Punk – TRON Legacy (Red Ambassador Cover)"
 author = "Red Ambassador"
 date = "2014-01-10"
-tags = ["cover", "electronic"]
-categories = ["blog", "music"]
+tags = ["singles", "cover", "electronic"]
+categories = ["music"]
 banner = "/img/cover-art/singles/tron-legacy-end-titles_320x320.jpg"
 draft = true
 +++
@@ -17,5 +17,5 @@ voices and everything. I could have used some add-ons I have, but I decided to
 challenge myself and find something decent in the default pack just to show
 that you can make some cool stuff with it right out of the box.
 
-<!-- If you want to hear the final version of this track, then go to this post: 
+<!-- If you want to hear the final version of this track, then go to this post:
 TRON: Legacy (RA Cover) -->

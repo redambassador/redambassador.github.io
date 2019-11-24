@@ -4,7 +4,7 @@ author = "Red Ambassador"
 date = "2014-09-15"
 lastmod = "2019-01-20"
 tags = ["singles", "electronic"]
-categories = ["singles", "music"]
+categories = ["music"]
 banner = "img/cover-art/singles/particulate_320x320.jpg"
 draft = false
 +++

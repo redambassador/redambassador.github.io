@@ -19,8 +19,8 @@
 
   <!-- Font -->
   <!-- <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'> -->
-  <link href="https://fonts.googleapis.com/css?family=Catamaran" rel="stylesheet" type='text/css' media="none" onload="if(media!='all')media='all'">
-  <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet" type='text/css' media="none" onload="if(media!='all')media='all'">
+  <link href="https://fonts.googleapis.com/css?family=Catamaran|Comfortaa" rel="stylesheet" type='text/css' media="none" onload="if(media!='all')media='all'">
+
 
   <!-- Bootstrap and Font Awesome CSS -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
@@ -55,8 +55,10 @@
   <link href="{{ "css/owl.carousel.css" | relURL}}" rel="stylesheet">
   <link href="{{ "css/owl.theme.css" | relURL}}" rel="stylesheet">
 
-  <!-- RSS feed -->
-  <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
+  <!-- RSS feeds -->
+  <link rel="alternate" href="{{ "/blog/index.xml" | absURL }}" type="application/rss+xml" title="Blog | {{ .Site.Title }}">
+  <link rel="alternate" href="{{ "/categories/music/index.xml" | absURL }}" type="application/rss+xml" title="Music | {{ .Site.Title }}">
+
 
   <!-- Facebook OpenGraph tags -->
   {{ $is_blog := and (eq .Type "blog") (eq .Kind "page") }}

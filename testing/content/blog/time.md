@@ -4,7 +4,7 @@ author = "Red Ambassador"
 date = "2014-10-02"
 lastmod = "2019-11-23"
 tags = ["singles", "electronic", "steampunk"]
-categories = ["singles", "music"]
+categories = ["music"]
 banner = "img/cover-art/singles/time_320x320.jpg"
 draft = false
 +++

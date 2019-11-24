@@ -4,7 +4,7 @@ author = "Red Ambassador"
 date = "2015-12-29"
 lastmod = "2019-01-20"
 tags = ["singles", "electronic", "chill"]
-categories = ["singles", "music"]
+categories = ["music"]
 banner = "img/cover-art/singles/dusk_320x320.jpg"
 draft = false
 +++
