@@ -21,7 +21,7 @@ rich melodies to complete the whole theme.
 
 You can listen to "Time" on some common platforms linked below, or you may
 choose to buy the track, **name your price** *(i.e. free, if you think it's a
-crap song)* [on Bandcamp](//redambassador.bandcamp.com/track/time).
+crap song)* [on Bandcamp](//red-ambassador.bandcamp.com/track/time).
 
 <br>
 
@@ -37,7 +37,7 @@ Listen to "Time" by Red Ambassador on these platforms:
 </a>
 &nbsp;
 &nbsp;
-<a target="_blank" href="//redambassador.bandcamp.com/track/time" title="Bandcamp">
+<a target="_blank" href="//red-ambassador.bandcamp.com/track/time" title="Bandcamp">
     <img height=40px src="/img/thirdparty/bandcamp.svg">
 </a>
 &nbsp;

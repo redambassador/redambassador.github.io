@@ -30,7 +30,7 @@ Listen to "Lost" by Red Ambassador on these platforms:
     <i style="color: #FF7700;" class="fab fa-soundcloud fa-2x"></i>
 </a>
 &nbsp;
-<a target="_blank" href="https://redambassador.bandcamp.com/track/lost" title="Bandcamp">
+<a target="_blank" href="https://red-ambassador.bandcamp.com/track/lost" title="Bandcamp">
     <i style="color: #639AA9;" class="fab fa-bandcamp fa-2x"></i>
 </a>
 &nbsp;

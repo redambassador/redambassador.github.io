@@ -34,7 +34,7 @@ Enjoy, as always. :)
 <center>
 Listen to "Dusk" by Red Ambassador on these platforms:
 
-<a target="_blank" href="//redambassador.bandcamp.com/track/dusk" title="Bandcamp">
+<a target="_blank" href="//red-ambassador.bandcamp.com/track/dusk" title="Bandcamp">
     <img height=40px src="/img/thirdparty/bandcamp.svg">
 </a>
 &nbsp;

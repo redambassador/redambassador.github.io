@@ -24,9 +24,11 @@ free to use.
 
 ## Presets
 
-| Name            | Audio Sample                              | Download |
-|-----------------|-------------------------------------------|----------|
-| Moondust        | [<i class="fas fa-file-audio fa-lg"></i>](https://drive.google.com/uc?export=download&id=14qiMASTf1nRSTwDseMr3dk_8N5N2NAuo) | [<i class="fas fa-file-download fa-lg"></i>](https://drive.google.com/uc?export=download&id=1U_k4H2VVZJxxyJnfHy9YREvQIHY8JgTS) |
+| Name     | Audio Sample | Download |
+| -------- | ------------ | -------- |
+| Moondust | 
+   [<i class="fas fa-file-audio fa-lg"></i>](https://drive.google.com/uc?export=download&id=14qiMASTf1nRSTwDseMr3dk_8N5N2NAuo) | 
+   [<i class="fas fa-file-download fa-lg"></i>](https://drive.google.com/uc?export=download&id=1U_k4H2VVZJxxyJnfHy9YREvQIHY8JgTS) |
 
 
 ## Samples

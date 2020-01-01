@@ -5,7 +5,7 @@ keywords = ["store", "purchase", "checkout", "cart", "music", "audio", "song", "
 +++
 
 <center>
-  <a class="btn btn-default btn-md" href="https://redambassador.bandcamp.com/"  target="_blank">
+  <a class="btn btn-default btn-md" href="https://red-ambassador.bandcamp.com/"  target="_blank">
     <i class="fa fa-bandcamp" aria-hidden="true" vertical-align: middle;></i> Bandcamp
   </a>
   <br>

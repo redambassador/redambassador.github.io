@@ -25,7 +25,7 @@ which was super cool! I feel pretty honored to have gotten that recognition.
 <center>
 Listen to "Particulate" by Red Ambassador on these platforms:
 
-<a target="_blank" href="https://redambassador.bandcamp.com/track/particulate" title="Bandcamp">
+<a target="_blank" href="https://red-ambassador.bandcamp.com/track/particulate" title="Bandcamp">
     <i style="color: #639AA9;" class="fab fa-bandcamp fa-2x"></i>
 </a>
 &nbsp;

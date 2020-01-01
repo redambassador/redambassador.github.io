@@ -25,7 +25,7 @@ Let's get in touch!
 <a target="_blank" href="https://soundcloud.com/red-ambassador" title="Soundcloud"> <img height=40px src="/img/thirdparty/soundcloud.svg"> </a>
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://redambassador.bandcamp.com/" title="Bandcamp"><img height=40px src="/img/thirdparty/bandcamp.svg"></a>
+<a target="_blank" href="https://red-ambassador.bandcamp.com/" title="Bandcamp"><img height=40px src="/img/thirdparty/bandcamp.svg"></a>
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://www.youtube.com/c/RedAmbassadorMusic1?sub_confirmation=1" title="YouTube"><img height=40px src="/img/thirdparty/yt_rc.svg"></a>

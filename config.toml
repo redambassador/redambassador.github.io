@@ -59,35 +59,35 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "[🆕] Latest Releases"
+    name = "Latest Releases"
     parent = "music"
     identifier = "recent"
     url = "/music/"
     weight = 1
 
 # [[menu.main]]
-#     name = "[💿] Discography"
+#     name = "Discography"
 #     parent = "music"
 #     identifier = "discography"
 #     url = "/discography/"
 #     weight = 2
 
 [[menu.main]]
-    name = "[💳] Buy on Bandcamp"
+    name = "Buy on Bandcamp"
     parent = "music"
     identifier = "buy-music"
-    url = "https://redambassador.bandcamp.com/"
+    url = "https://red-ambassador.bandcamp.com/"
     weight = 3
 
 #[[menu.main]]
-#    name = "[🎵] Free Music"
+#    name = "Free Music"
 #    parent = "music"
 #    identifier = "free-music"
 #    url = "/free-music/"
 #    weight = 3
 
 [[menu.main]]
-    name = "[📁] Free LMMS Stuff"
+    name = "Free LMMS Stuff"
     parent = "music"
     identifier = "lmms"
     url = "/lmms-stuff/"
@@ -115,7 +115,7 @@ paginate = 10
 # [[menu.topbar]]
 #     weight = 1
 #     name = "Bandcamp"
-#     url = "//redambassador.bandcamp.com"
+#     url = "//red-ambassador.bandcamp.com"
 #     pre = """<i class="fa-stack fa-lg">
 #                  <i class="fa fa-square fa-stack-2x fa-inverse"></i>
 #                  <i class="fa fa-bandcamp fa-stack-1x"></i>
