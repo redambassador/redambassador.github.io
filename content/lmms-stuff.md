@@ -14,9 +14,9 @@ free to use.
 
 ### Contents
 
-* [Project Files](#project-files)
-* [Instrument Presets](#presets)
-* [Samples](#samples)
+- [Project Files](#project-files)
+- [Presets](#presets)
+- [Samples](#samples)
 
 ## Project Files
 
@@ -26,9 +26,7 @@ free to use.
 
 | Name     | Audio Sample | Download |
 | -------- | ------------ | -------- |
-| Moondust | 
-   [<i class="fas fa-file-audio fa-lg"></i>](https://drive.google.com/uc?export=download&id=14qiMASTf1nRSTwDseMr3dk_8N5N2NAuo) | 
-   [<i class="fas fa-file-download fa-lg"></i>](https://drive.google.com/uc?export=download&id=1U_k4H2VVZJxxyJnfHy9YREvQIHY8JgTS) |
+| Moondust | [<i class="fas fa-file-audio fa-lg"></i>](https://drive.google.com/uc?export=download&id=14qiMASTf1nRSTwDseMr3dk_8N5N2NAuo) | [<i class="fas fa-file-download fa-lg"></i>](https://drive.google.com/uc?export=download&id=1U_k4H2VVZJxxyJnfHy9YREvQIHY8JgTS) |
 
 
 ## Samples
